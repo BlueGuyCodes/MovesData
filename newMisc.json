@@ -1,1819 +1,1819 @@
 {
-   "floetteeternal":{
-      "learnset":{
-         "afteryou":[
+   "floetteeternal": {
+      "learnset": {
+         "afteryou": [
             "7T"
          ],
-         "allyswitch":[
+         "allyswitch": [
             "7T"
          ],
-         "aromatherapy":[
+         "aromatherapy": [
             "6L38"
          ],
-         "attract":[
+         "attract": [
             "6M"
          ],
-         "calmmind":[
+         "calmmind": [
             "6M"
          ],
-         "confide":[
+         "confide": [
             "6M"
          ],
-         "covet":[
+         "covet": [
             "7T"
          ],
-         "dazzlinggleam":[
+         "dazzlinggleam": [
             "6M"
          ],
-         "doubleteam":[
+         "doubleteam": [
             "6M"
          ],
-         "echoedvoice":[
+         "echoedvoice": [
             "6M"
          ],
-         "endeavor":[
+         "endeavor": [
             "7T"
          ],
-         "energyball":[
+         "energyball": [
             "6M"
          ],
-         "facade":[
+         "facade": [
             "6M"
          ],
-         "fairywind":[
+         "fairywind": [
             "6L6"
          ],
-         "flash":[
+         "flash": [
             "6M"
          ],
-         "frustration":[
+         "frustration": [
             "6M"
          ],
-         "gigadrain":[
+         "gigadrain": [
             "7T"
          ],
-         "grassknot":[
+         "grassknot": [
             "6M"
          ],
-         "grassyterrain":[
+         "grassyterrain": [
             "6L27"
          ],
-         "healbell":[
+         "healbell": [
             "7T"
          ],
-         "helpinghand":[
+         "helpinghand": [
             "7T"
          ],
-         "hiddenpower":[
+         "hiddenpower": [
             "6M"
          ],
-         "lightofruin":[
+         "lightofruin": [
             "6L50"
          ],
-         "luckychant":[
+         "luckychant": [
             "6L10"
          ],
-         "magicalleaf":[
+         "magicalleaf": [
             "6L25"
          ],
-         "magiccoat":[
+         "magiccoat": [
             "7T"
          ],
-         "mistyterrain":[
+         "mistyterrain": [
             "6L43"
          ],
-         "moonblast":[
+         "moonblast": [
             "6L46"
          ],
-         "naturepower":[
+         "naturepower": [
             "6M"
          ],
-         "petalblizzard":[
+         "petalblizzard": [
             "6L33"
          ],
-         "petaldance":[
+         "petaldance": [
             "6L51"
          ],
-         "protect":[
+         "protect": [
             "6M"
          ],
-         "psychic":[
+         "psychic": [
             "6M"
          ],
-         "raindance":[
+         "raindance": [
             "6M"
          ],
-         "razorleaf":[
+         "razorleaf": [
             "6L15"
          ],
-         "rest":[
+         "rest": [
             "6M"
          ],
-         "return":[
+         "return": [
             "6M"
          ],
-         "round":[
+         "round": [
             "6M"
          ],
-         "safeguard":[
+         "safeguard": [
             "6M"
          ],
-         "secretpower":[
+         "secretpower": [
             "6M"
          ],
-         "seedbomb":[
+         "seedbomb": [
             "7T"
          ],
-         "sleeptalk":[
+         "sleeptalk": [
             "6M"
          ],
-         "snore":[
+         "snore": [
             "7T"
          ],
-         "solarbeam":[
+         "solarbeam": [
             "6M",
             "6L58"
          ],
-         "substitute":[
+         "substitute": [
             "6M"
          ],
-         "sunnyday":[
+         "sunnyday": [
             "6M"
          ],
-         "swagger":[
+         "swagger": [
             "6M"
          ],
-         "synthesis":[
+         "synthesis": [
             "7T"
          ],
-         "tackle":[
+         "tackle": [
             "6L1"
          ],
-         "toxic":[
+         "toxic": [
             "6M"
          ],
-         "vinewhip":[
+         "vinewhip": [
             "6L1"
          ],
-         "wish":[
+         "wish": [
             "6L20"
          ],
-         "worryseed":[
+         "worryseed": [
             "7T"
          ]
       }
    },
-   "magearnaoriginal":{
-      "learnset":{
-         "agility":[
+   "magearnaoriginal": {
+      "learnset": {
+         "agility": [
             "9M",
             "8M"
          ],
-         "aurasphere":[
+         "aurasphere": [
             "9M",
             "9L66",
             "8M",
             "8L66"
          ],
-         "aurorabeam":[
+         "aurorabeam": [
             "9L36",
             "8L36"
          ],
-         "batonpass":[
+         "batonpass": [
             "9M",
             "8M"
          ],
-         "bodyslam":[
+         "bodyslam": [
             "9M"
          ],
-         "brickbreak":[
+         "brickbreak": [
             "9M",
             "8M"
          ],
-         "calmmind":[
+         "calmmind": [
             "9M",
             "8M"
          ],
-         "chargebeam":[
+         "chargebeam": [
             "9M"
          ],
-         "confuseray":[
+         "confuseray": [
             "9M"
          ],
-         "craftyshield":[
+         "craftyshield": [
             "8L54"
          ],
-         "dazzlinggleam":[
+         "dazzlinggleam": [
             "9M",
             "8M"
          ],
-         "defensecurl":[
+         "defensecurl": [
             "9L6",
             "8L6",
             "8S0"
          ],
-         "disarmingvoice":[
+         "disarmingvoice": [
             "9M"
          ],
-         "drainingkiss":[
+         "drainingkiss": [
             "9M",
             "8M"
          ],
-         "eerieimpulse":[
+         "eerieimpulse": [
             "9M",
             "8M"
          ],
-         "electroball":[
+         "electroball": [
             "9M",
             "8M"
          ],
-         "electroweb":[
+         "electroweb": [
             "8M"
          ],
-         "encore":[
+         "encore": [
             "9M",
             "8M"
          ],
-         "endure":[
+         "endure": [
             "9M",
             "8M"
          ],
-         "energyball":[
+         "energyball": [
             "9M",
             "8M"
          ],
-         "facade":[
+         "facade": [
             "9M"
          ],
-         "falseswipe":[
+         "falseswipe": [
             "9M",
             "8M"
          ],
-         "flashcannon":[
+         "flashcannon": [
             "9M",
             "9L72",
             "8M",
             "8L72",
             "8S0"
          ],
-         "fleurcannon":[
+         "fleurcannon": [
             "9L90",
             "8L90",
             "8S0"
          ],
-         "focusblast":[
+         "focusblast": [
             "9M",
             "8M"
          ],
-         "gearup":[
+         "gearup": [
             "8L24"
          ],
-         "gigaimpact":[
+         "gigaimpact": [
             "9M",
             "8M"
          ],
-         "grassknot":[
+         "grassknot": [
             "9M",
             "8M"
          ],
-         "guardswap":[
+         "guardswap": [
             "8M"
          ],
-         "gyroball":[
+         "gyroball": [
             "9L1",
             "8M",
             "8L1"
          ],
-         "heavyslam":[
+         "heavyslam": [
             "9M"
          ],
-         "helpinghand":[
+         "helpinghand": [
             "9M",
             "9L1",
             "8M",
             "8L1"
          ],
-         "hyperbeam":[
+         "hyperbeam": [
             "9M",
             "8M"
          ],
-         "icebeam":[
+         "icebeam": [
             "9M",
             "8M"
          ],
-         "icespinner":[
+         "icespinner": [
             "9M"
          ],
-         "imprison":[
+         "imprison": [
             "9M",
             "8M"
          ],
-         "irondefense":[
+         "irondefense": [
             "9M",
             "9L18",
             "8M",
             "8L18"
          ],
-         "ironhead":[
+         "ironhead": [
             "9M",
             "9L60",
             "8M",
             "8L60"
          ],
-         "lightscreen":[
+         "lightscreen": [
             "9M",
             "8M"
          ],
-         "lockon":[
+         "lockon": [
             "9L42"
          ],
-         "magneticflux":[
+         "magneticflux": [
             "9L24"
          ],
-         "mindreader":[
+         "mindreader": [
             "8L42"
          ],
-         "mistyexplosion":[
+         "mistyexplosion": [
             "8T"
          ],
-         "mistyterrain":[
+         "mistyterrain": [
             "9M"
          ],
-         "painsplit":[
+         "painsplit": [
             "9L78",
             "8L78"
          ],
-         "playrough":[
+         "playrough": [
             "9M"
          ],
-         "powerswap":[
+         "powerswap": [
             "8M"
          ],
-         "protect":[
+         "protect": [
             "9M",
             "8M"
          ],
-         "psybeam":[
+         "psybeam": [
             "9M",
             "9L30",
             "8L30"
          ],
-         "psychic":[
+         "psychic": [
             "9M"
          ],
-         "psyshock":[
+         "psyshock": [
             "9M"
          ],
-         "reflect":[
+         "reflect": [
             "9M",
             "8M"
          ],
-         "rest":[
+         "rest": [
             "9M",
             "8M",
             "8S0"
          ],
-         "rollout":[
+         "rollout": [
             "9L12",
             "8L12"
          ],
-         "round":[
+         "round": [
             "8M"
          ],
-         "selfdestruct":[
+         "selfdestruct": [
             "8M"
          ],
-         "shadowball":[
+         "shadowball": [
             "9M",
             "8M"
          ],
-         "shiftgear":[
+         "shiftgear": [
             "9L48",
             "8L48"
          ],
-         "skillswap":[
+         "skillswap": [
             "9M"
          ],
-         "sleeptalk":[
+         "sleeptalk": [
             "9M"
          ],
-         "snore":[
+         "snore": [
             "8M"
          ],
-         "snowscape":[
+         "snowscape": [
             "9M"
          ],
-         "solarbeam":[
+         "solarbeam": [
             "9M",
             "8M"
          ],
-         "speedswap":[
+         "speedswap": [
             "8M"
          ],
-         "spikes":[
+         "spikes": [
             "9M"
          ],
-         "steelbeam":[
+         "steelbeam": [
             "9M",
             "8T"
          ],
-         "steelroller":[
+         "steelroller": [
             "8T"
          ],
-         "storedpower":[
+         "storedpower": [
             "9M",
             "8M"
          ],
-         "substitute":[
+         "substitute": [
             "9M",
             "8M"
          ],
-         "sunnyday":[
+         "sunnyday": [
             "9M"
          ],
-         "swift":[
+         "swift": [
             "9M"
          ],
-         "takedown":[
+         "takedown": [
             "9M"
          ],
-         "terablast":[
+         "terablast": [
             "9M"
          ],
-         "thunderbolt":[
+         "thunderbolt": [
             "9M",
             "8M"
          ],
-         "thunderwave":[
+         "thunderwave": [
             "9M",
             "8M"
          ],
-         "triattack":[
+         "triattack": [
             "8M"
          ],
-         "trick":[
+         "trick": [
             "9M",
             "9L54",
             "8M"
          ],
-         "trickroom":[
+         "trickroom": [
             "9M",
             "8M"
          ],
-         "voltswitch":[
+         "voltswitch": [
             "9M",
             "8M"
          ],
-         "zapcannon":[
+         "zapcannon": [
             "9L84",
             "8L84"
          ],
-         "zenheadbutt":[
+         "zenheadbutt": [
             "9M",
             "8M"
          ]
       },
-      "eventData":[
+      "eventData": [
          {
-            "generation":8,
-            "level":50,
-            "nature":"Mild",
-            "ivs":{
-               "hp":31,
-               "atk":30,
-               "def":30,
-               "spa":31,
-               "spd":31,
-               "spe":0
+            "generation": 8,
+            "level": 50,
+            "nature": "Mild",
+            "ivs": {
+               "hp": 31,
+               "atk": 30,
+               "def": 30,
+               "spa": 31,
+               "spd": 31,
+               "spe": 0
             },
-            "moves":[
+            "moves": [
                "fleurcannon",
                "flashcannon",
                "defensecurl",
                "rest"
             ],
-            "pokeball":"cherishball"
+            "pokeball": "cherishball"
          }
       ],
-      "eventOnly":true
+      "eventOnly": true
    },
-   "toxtricitylowkey":{
-      "learnset":{
-         "acid":[
+   "toxtricitylowkey": {
+      "learnset": {
+         "acid": [
             "9L1",
             "8L1"
          ],
-         "acidspray":[
+         "acidspray": [
             "9M",
             "9L1",
             "8L1"
          ],
-         "attract":[
+         "attract": [
             "8M"
          ],
-         "belch":[
+         "belch": [
             "9L1",
             "8L1"
          ],
-         "boomburst":[
+         "boomburst": [
             "9L48",
             "8L48"
          ],
-         "brickbreak":[
+         "brickbreak": [
             "9M"
          ],
-         "charge":[
+         "charge": [
             "9L4",
             "8L4"
          ],
-         "chargebeam":[
+         "chargebeam": [
             "9M"
          ],
-         "charm":[
+         "charm": [
             "9M"
          ],
-         "discharge":[
+         "discharge": [
             "9L36",
             "8L36"
          ],
-         "drainpunch":[
+         "drainpunch": [
             "9M",
             "8M"
          ],
-         "eerieimpulse":[
+         "eerieimpulse": [
             "9M",
             "8M",
             "8L1"
          ],
-         "electricterrain":[
+         "electricterrain": [
             "9M"
          ],
-         "electroball":[
+         "electroball": [
             "9M",
             "8M"
          ],
-         "encore":[
+         "encore": [
             "9M",
             "8M"
          ],
-         "endure":[
+         "endure": [
             "9M",
             "8M"
          ],
-         "facade":[
+         "facade": [
             "9M",
             "8M"
          ],
-         "firepunch":[
+         "firepunch": [
             "9M",
             "8M"
          ],
-         "flail":[
+         "flail": [
             "9L1",
             "8L1"
          ],
-         "fling":[
+         "fling": [
             "9M",
             "8M"
          ],
-         "gigaimpact":[
+         "gigaimpact": [
             "9M",
             "8M"
          ],
-         "growl":[
+         "growl": [
             "9L1",
             "8L1"
          ],
-         "gunkshot":[
+         "gunkshot": [
             "9M",
             "8M"
          ],
-         "helpinghand":[
+         "helpinghand": [
             "9M"
          ],
-         "hex":[
+         "hex": [
             "9M",
             "8M"
          ],
-         "hyperbeam":[
+         "hyperbeam": [
             "9M",
             "8M"
          ],
-         "hypervoice":[
+         "hypervoice": [
             "9M",
             "8M"
          ],
-         "leer":[
+         "leer": [
             "9L1",
             "8L1"
          ],
-         "magneticflux":[
+         "magneticflux": [
             "9L52",
             "8L52"
          ],
-         "megakick":[
+         "megakick": [
             "8M"
          ],
-         "megapunch":[
+         "megapunch": [
             "8M"
          ],
-         "metronome":[
+         "metronome": [
             "9M"
          ],
-         "nobleroar":[
+         "nobleroar": [
             "9L1",
             "8L1"
          ],
-         "nuzzle":[
+         "nuzzle": [
             "9L1",
             "8L1"
          ],
-         "overdrive":[
+         "overdrive": [
             "9L44",
             "8L44"
          ],
-         "payback":[
+         "payback": [
             "8M"
          ],
-         "poisonjab":[
+         "poisonjab": [
             "9M",
             "9L40",
             "8M",
             "8L40"
          ],
-         "poisontail":[
+         "poisontail": [
             "9M"
          ],
-         "protect":[
+         "protect": [
             "9M",
             "8M"
          ],
-         "raindance":[
+         "raindance": [
             "9M"
          ],
-         "rest":[
+         "rest": [
             "9M",
             "8M"
          ],
-         "risingvoltage":[
+         "risingvoltage": [
             "8T"
          ],
-         "round":[
+         "round": [
             "8M"
          ],
-         "scaryface":[
+         "scaryface": [
             "9M",
             "9L12",
             "8M",
             "8L12"
          ],
-         "screech":[
+         "screech": [
             "9L24",
             "8M",
             "8L24"
          ],
-         "shockwave":[
+         "shockwave": [
             "9L8",
             "8L8"
          ],
-         "sleeptalk":[
+         "sleeptalk": [
             "9M",
             "8M"
          ],
-         "sludgebomb":[
+         "sludgebomb": [
             "9M",
             "8M"
          ],
-         "sludgewave":[
+         "sludgewave": [
             "8M"
          ],
-         "snarl":[
+         "snarl": [
             "9M",
             "8M"
          ],
-         "snore":[
+         "snore": [
             "8M"
          ],
-         "spark":[
+         "spark": [
             "9L0",
             "8L0"
          ],
-         "storedpower":[
+         "storedpower": [
             "9M",
             "8M"
          ],
-         "substitute":[
+         "substitute": [
             "9M",
             "8M"
          ],
-         "sunnyday":[
+         "sunnyday": [
             "9M"
          ],
-         "swagger":[
+         "swagger": [
             "9L28",
             "8L28"
          ],
-         "swift":[
+         "swift": [
             "9M",
             "8M"
          ],
-         "takedown":[
+         "takedown": [
             "9M"
          ],
-         "taunt":[
+         "taunt": [
             "9M",
             "9L16",
             "8M",
             "8L16"
          ],
-         "tearfullook":[
+         "tearfullook": [
             "9L1",
             "8L1"
          ],
-         "terablast":[
+         "terablast": [
             "9M"
          ],
-         "thief":[
+         "thief": [
             "9M"
          ],
-         "throatchop":[
+         "throatchop": [
             "8M"
          ],
-         "thunder":[
+         "thunder": [
             "9M",
             "8M"
          ],
-         "thunderbolt":[
+         "thunderbolt": [
             "9M",
             "8M"
          ],
-         "thunderfang":[
+         "thunderfang": [
             "9M"
          ],
-         "thunderpunch":[
+         "thunderpunch": [
             "9M",
             "8M"
          ],
-         "thundershock":[
+         "thundershock": [
             "9L1",
             "8L1"
          ],
-         "thunderwave":[
+         "thunderwave": [
             "9M",
             "8M"
          ],
-         "toxic":[
+         "toxic": [
             "9L32",
             "8L32"
          ],
-         "toxicspikes":[
+         "toxicspikes": [
             "9M"
          ],
-         "trailblaze":[
+         "trailblaze": [
             "9M"
          ],
-         "uproar":[
+         "uproar": [
             "8M"
          ],
-         "venomdrench":[
+         "venomdrench": [
             "8M",
             "8L20"
          ],
-         "venoshock":[
+         "venoshock": [
             "9M"
          ],
-         "voltswitch":[
+         "voltswitch": [
             "9M",
             "8M"
          ],
-         "wildcharge":[
+         "wildcharge": [
             "9M",
             "8M"
          ]
       }
    },
-   "urshifurapidstrike":{
-      "learnset":{
-         "acrobatics":[
+   "urshifurapidstrike": {
+      "learnset": {
+         "acrobatics": [
             "9M",
             "8M"
          ],
-         "aerialace":[
+         "aerialace": [
             "9M",
             "9L12",
             "8L12"
          ],
-         "aquajet":[
+         "aquajet": [
             "9L1",
             "8L1"
          ],
-         "attract":[
+         "attract": [
             "8M"
          ],
-         "aurasphere":[
+         "aurasphere": [
             "9M",
             "8M"
          ],
-         "bodypress":[
+         "bodypress": [
             "9M",
             "8M"
          ],
-         "bodyslam":[
+         "bodyslam": [
             "9M",
             "8M"
          ],
-         "brickbreak":[
+         "brickbreak": [
             "9M",
             "9L24",
             "8M",
             "8L24"
          ],
-         "brine":[
+         "brine": [
             "8M"
          ],
-         "bulkup":[
+         "bulkup": [
             "9M",
             "9L32",
             "8M",
             "8L32"
          ],
-         "chillingwater":[
+         "chillingwater": [
             "9M"
          ],
-         "closecombat":[
+         "closecombat": [
             "9M",
             "9L48",
             "8M",
             "8L48"
          ],
-         "coaching":[
+         "coaching": [
             "8T"
          ],
-         "counter":[
+         "counter": [
             "9L44",
             "8L44"
          ],
-         "detect":[
+         "detect": [
             "9L28",
             "8L28"
          ],
-         "dig":[
+         "dig": [
             "9M",
             "8M"
          ],
-         "dive":[
+         "dive": [
             "8M"
          ],
-         "drainpunch":[
+         "drainpunch": [
             "9M",
             "8M"
          ],
-         "dynamicpunch":[
+         "dynamicpunch": [
             "9L40",
             "8L40"
          ],
-         "endure":[
+         "endure": [
             "9M",
             "9L1",
             "8M",
             "8L1"
          ],
-         "facade":[
+         "facade": [
             "9M",
             "8M"
          ],
-         "falseswipe":[
+         "falseswipe": [
             "9M",
             "8M"
          ],
-         "firepunch":[
+         "firepunch": [
             "9M",
             "8M"
          ],
-         "fling":[
+         "fling": [
             "9M"
          ],
-         "focusblast":[
+         "focusblast": [
             "9M",
             "8M"
          ],
-         "focusenergy":[
+         "focusenergy": [
             "9L1",
             "8M",
             "8L1"
          ],
-         "focuspunch":[
+         "focuspunch": [
             "9L52",
             "8L52"
          ],
-         "gigaimpact":[
+         "gigaimpact": [
             "9M",
             "8M"
          ],
-         "headbutt":[
+         "headbutt": [
             "9L20",
             "8L20"
          ],
-         "helpinghand":[
+         "helpinghand": [
             "9M",
             "8M"
          ],
-         "icepunch":[
+         "icepunch": [
             "9M",
             "8M"
          ],
-         "icespinner":[
+         "icespinner": [
             "9M"
          ],
-         "irondefense":[
+         "irondefense": [
             "9M",
             "8M"
          ],
-         "ironhead":[
+         "ironhead": [
             "9M",
             "9L36",
             "8M",
             "8L36"
          ],
-         "leer":[
+         "leer": [
             "9L1",
             "8L1"
          ],
-         "liquidation":[
+         "liquidation": [
             "9M",
             "8M"
          ],
-         "lowkick":[
+         "lowkick": [
             "9M",
             "8M"
          ],
-         "lowsweep":[
+         "lowsweep": [
             "9M",
             "8M"
          ],
-         "megakick":[
+         "megakick": [
             "8M"
          ],
-         "megapunch":[
+         "megapunch": [
             "8M"
          ],
-         "poisonjab":[
+         "poisonjab": [
             "9M",
             "8M"
          ],
-         "protect":[
+         "protect": [
             "9M",
             "8M"
          ],
-         "raindance":[
+         "raindance": [
             "9M",
             "8M"
          ],
-         "rest":[
+         "rest": [
             "9M",
             "8M"
          ],
-         "retaliate":[
+         "retaliate": [
             "8M"
          ],
-         "revenge":[
+         "revenge": [
             "8M"
          ],
-         "reversal":[
+         "reversal": [
             "9M",
             "8M"
          ],
-         "rockslide":[
+         "rockslide": [
             "9M",
             "8M"
          ],
-         "rocksmash":[
+         "rocksmash": [
             "9L1",
             "8L1"
          ],
-         "rocktomb":[
+         "rocktomb": [
             "9M",
             "8M"
          ],
-         "round":[
+         "round": [
             "8M"
          ],
-         "scald":[
+         "scald": [
             "8M"
          ],
-         "scaryface":[
+         "scaryface": [
             "9M",
             "9L16",
             "8M",
             "8L16"
          ],
-         "sleeptalk":[
+         "sleeptalk": [
             "9M",
             "8M"
          ],
-         "snore":[
+         "snore": [
             "8M"
          ],
-         "stoneedge":[
+         "stoneedge": [
             "9M",
             "8M"
          ],
-         "substitute":[
+         "substitute": [
             "9M",
             "8M"
          ],
-         "superpower":[
+         "superpower": [
             "8M"
          ],
-         "surgingstrikes":[
+         "surgingstrikes": [
             "9L0",
             "8L0"
          ],
-         "swift":[
+         "swift": [
             "9M",
             "8M"
          ],
-         "swordsdance":[
+         "swordsdance": [
             "9M"
          ],
-         "takedown":[
+         "takedown": [
             "9M"
          ],
-         "taunt":[
+         "taunt": [
             "9M",
             "8M"
          ],
-         "terablast":[
+         "terablast": [
             "9M"
          ],
-         "thunderpunch":[
+         "thunderpunch": [
             "9M",
             "8M"
          ],
-         "trailblaze":[
+         "trailblaze": [
             "9M"
          ],
-         "uturn":[
+         "uturn": [
             "9M",
             "8M"
          ],
-         "waterfall":[
+         "waterfall": [
             "9M",
             "8M"
          ],
-         "whirlpool":[
+         "whirlpool": [
             "8M"
          ],
-         "workup":[
+         "workup": [
             "8M"
          ],
-         "zenheadbutt":[
+         "zenheadbutt": [
             "9M",
             "8M"
          ]
       }
    },
-   "zarudedada":{
-      "learnset":{
-         "acrobatics":[
+   "zarudedada": {
+      "learnset": {
+         "acrobatics": [
             "9M",
             "8M"
          ],
-         "aerialace":[
+         "aerialace": [
             "9M"
          ],
-         "assurance":[
+         "assurance": [
             "8M"
          ],
-         "bind":[
+         "bind": [
             "9L1",
             "8L1"
          ],
-         "bite":[
+         "bite": [
             "9L42",
             "8L42"
          ],
-         "bodyslam":[
+         "bodyslam": [
             "9M",
             "8M"
          ],
-         "brickbreak":[
+         "brickbreak": [
             "9M",
             "8M"
          ],
-         "brutalswing":[
+         "brutalswing": [
             "8M"
          ],
-         "bulkup":[
+         "bulkup": [
             "9M",
             "8M"
          ],
-         "bulletseed":[
+         "bulletseed": [
             "9M",
             "8M"
          ],
-         "closecombat":[
+         "closecombat": [
             "9M",
             "8M"
          ],
-         "crunch":[
+         "crunch": [
             "9M",
             "8M"
          ],
-         "darkestlariat":[
+         "darkestlariat": [
             "8M"
          ],
-         "darkpulse":[
+         "darkpulse": [
             "9M",
             "8M"
          ],
-         "dig":[
+         "dig": [
             "9M",
             "8M"
          ],
-         "drainpunch":[
+         "drainpunch": [
             "9M",
             "8M"
          ],
-         "encore":[
+         "encore": [
             "9M",
             "8M"
          ],
-         "endure":[
+         "endure": [
             "9M",
             "8M"
          ],
-         "energyball":[
+         "energyball": [
             "9M",
             "9L60",
             "8M",
             "8L60",
             "8S0"
          ],
-         "facade":[
+         "facade": [
             "9M",
             "8M"
          ],
-         "fling":[
+         "fling": [
             "9M",
             "8M"
          ],
-         "furyswipes":[
+         "furyswipes": [
             "9L24",
             "8L24"
          ],
-         "gigadrain":[
+         "gigadrain": [
             "9M",
             "8M"
          ],
-         "gigaimpact":[
+         "gigaimpact": [
             "9M",
             "8M"
          ],
-         "grassknot":[
+         "grassknot": [
             "9M",
             "9L36",
             "8M",
             "8L36"
          ],
-         "grassyglide":[
+         "grassyglide": [
             "8T"
          ],
-         "grassyterrain":[
+         "grassyterrain": [
             "9M",
             "8M"
          ],
-         "growth":[
+         "growth": [
             "9L18",
             "8L18"
          ],
-         "hammerarm":[
+         "hammerarm": [
             "9L72",
             "8L72",
             "8S0"
          ],
-         "helpinghand":[
+         "helpinghand": [
             "9M"
          ],
-         "hyperbeam":[
+         "hyperbeam": [
             "9M",
             "8M"
          ],
-         "hypervoice":[
+         "hypervoice": [
             "9M",
             "8M"
          ],
-         "irontail":[
+         "irontail": [
             "8M"
          ],
-         "junglehealing":[
+         "junglehealing": [
             "9L90",
             "8L90",
             "8S0"
          ],
-         "lashout":[
+         "lashout": [
             "8T"
          ],
-         "leafstorm":[
+         "leafstorm": [
             "9M"
          ],
-         "leer":[
+         "leer": [
             "9L6",
             "8L6"
          ],
-         "lowkick":[
+         "lowkick": [
             "9M",
             "8M"
          ],
-         "lowsweep":[
+         "lowsweep": [
             "9M"
          ],
-         "magicalleaf":[
+         "magicalleaf": [
             "9M",
             "8M"
          ],
-         "megakick":[
+         "megakick": [
             "8M"
          ],
-         "megapunch":[
+         "megapunch": [
             "8M"
          ],
-         "mudshot":[
+         "mudshot": [
             "9M",
             "8M"
          ],
-         "nastyplot":[
+         "nastyplot": [
             "9M",
             "8M"
          ],
-         "payback":[
+         "payback": [
             "8M"
          ],
-         "powerwhip":[
+         "powerwhip": [
             "9L84",
             "8M",
             "8L84",
             "8S0"
          ],
-         "protect":[
+         "protect": [
             "9M",
             "8M"
          ],
-         "rest":[
+         "rest": [
             "9M",
             "8M"
          ],
-         "revenge":[
+         "revenge": [
             "8M"
          ],
-         "rockslide":[
+         "rockslide": [
             "9M",
             "8M"
          ],
-         "rocktomb":[
+         "rocktomb": [
             "9M",
             "8M"
          ],
-         "round":[
+         "round": [
             "8M"
          ],
-         "scaryface":[
+         "scaryface": [
             "9M",
             "9L30",
             "8M",
             "8L30"
          ],
-         "scratch":[
+         "scratch": [
             "9L1",
             "8L1"
          ],
-         "seedbomb":[
+         "seedbomb": [
             "9M",
             "8M"
          ],
-         "sleeptalk":[
+         "sleeptalk": [
             "9M",
             "8M"
          ],
-         "snarl":[
+         "snarl": [
             "9M",
             "8M"
          ],
-         "snore":[
+         "snore": [
             "8M"
          ],
-         "solarbeam":[
+         "solarbeam": [
             "9M",
             "8M"
          ],
-         "solarblade":[
+         "solarblade": [
             "8M"
          ],
-         "stompingtantrum":[
+         "stompingtantrum": [
             "9M",
             "8M"
          ],
-         "substitute":[
+         "substitute": [
             "9M",
             "8M"
          ],
-         "sunnyday":[
+         "sunnyday": [
             "9M",
             "8M"
          ],
-         "superpower":[
+         "superpower": [
             "8M"
          ],
-         "swagger":[
+         "swagger": [
             "9L54",
             "8L54"
          ],
-         "swift":[
+         "swift": [
             "9M",
             "8M"
          ],
-         "swordsdance":[
+         "swordsdance": [
             "9M"
          ],
-         "synthesis":[
+         "synthesis": [
             "9L66",
             "8L66"
          ],
-         "takedown":[
+         "takedown": [
             "9M"
          ],
-         "taunt":[
+         "taunt": [
             "9M",
             "8M"
          ],
-         "terablast":[
+         "terablast": [
             "9M"
          ],
-         "thief":[
+         "thief": [
             "9M",
             "8M"
          ],
-         "thrash":[
+         "thrash": [
             "9L78",
             "8L78"
          ],
-         "throatchop":[
+         "throatchop": [
             "8M"
          ],
-         "trailblaze":[
+         "trailblaze": [
             "9M"
          ],
-         "uturn":[
+         "uturn": [
             "9M",
             "9L48",
             "8M",
             "8L48"
          ],
-         "vinewhip":[
+         "vinewhip": [
             "9L12",
             "8L12"
          ]
       },
-      "eventData":[
+      "eventData": [
          {
-            "generation":8,
-            "level":70,
-            "nature":"Adamant",
-            "moves":[
+            "generation": 8,
+            "level": 70,
+            "nature": "Adamant",
+            "moves": [
                "junglehealing",
                "hammerarm",
                "powerwhip",
                "energyball"
             ],
-            "pokeball":"cherishball"
+            "pokeball": "cherishball"
          }
       ],
-      "eventOnly":true
+      "eventOnly": true
    },
-   "calyrexice":{
-      "learnset":{
-         "agility":[
+   "calyrexice": {
+      "learnset": {
+         "agility": [
             "9M",
             "8M"
          ],
-         "allyswitch":[
+         "allyswitch": [
             "8M"
          ],
-         "aromatherapy":[
+         "aromatherapy": [
             "9L40",
             "8L40"
          ],
-         "assurance":[
+         "assurance": [
             "8M"
          ],
-         "avalanche":[
+         "avalanche": [
             "9M",
             "9L1",
             "8M",
             "8L1"
          ],
-         "batonpass":[
+         "batonpass": [
             "9M",
             "8M"
          ],
-         "blizzard":[
+         "blizzard": [
             "9M",
             "8M"
          ],
-         "bodypress":[
+         "bodypress": [
             "9M",
             "8M"
          ],
-         "bodyslam":[
+         "bodyslam": [
             "9M",
             "8M"
          ],
-         "bulldoze":[
+         "bulldoze": [
             "9M",
             "8M"
          ],
-         "bulletseed":[
+         "bulletseed": [
             "9M",
             "8M"
          ],
-         "calmmind":[
+         "calmmind": [
             "9M",
             "8M"
          ],
-         "closecombat":[
+         "closecombat": [
             "9M",
             "8M"
          ],
-         "confusion":[
+         "confusion": [
             "9L1",
             "8L1"
          ],
-         "crunch":[
+         "crunch": [
             "9M",
             "8M"
          ],
-         "doubleedge":[
+         "doubleedge": [
             "9L1",
             "8L1"
          ],
-         "doublekick":[
+         "doublekick": [
             "9L1",
             "8L1"
          ],
-         "drainingkiss":[
+         "drainingkiss": [
             "9M",
             "8M"
          ],
-         "encore":[
+         "encore": [
             "9M",
             "8M"
          ],
-         "endure":[
+         "endure": [
             "9M",
             "8M"
          ],
-         "energyball":[
+         "energyball": [
             "9M",
             "9L48",
             "8M",
             "8L48"
          ],
-         "expandingforce":[
+         "expandingforce": [
             "8T"
          ],
-         "facade":[
+         "facade": [
             "9M",
             "8M"
          ],
-         "futuresight":[
+         "futuresight": [
             "9L88",
             "8M",
             "8L88"
          ],
-         "gigadrain":[
+         "gigadrain": [
             "9M",
             "9L16",
             "8M",
             "8L16",
             "8S0"
          ],
-         "gigaimpact":[
+         "gigaimpact": [
             "9M",
             "8M"
          ],
-         "glaciallance":[
+         "glaciallance": [
             "9L1",
             "8L1",
             "8S0"
          ],
-         "grassknot":[
+         "grassknot": [
             "9M",
             "8M"
          ],
-         "grassyterrain":[
+         "grassyterrain": [
             "9M",
             "9L40",
             "8M"
          ],
-         "growth":[
+         "growth": [
             "9L1",
             "8L1"
          ],
-         "guardswap":[
+         "guardswap": [
             "8M"
          ],
-         "hail":[
+         "hail": [
             "8M"
          ],
-         "healpulse":[
+         "healpulse": [
             "9L72",
             "8L72"
          ],
-         "heavyslam":[
+         "heavyslam": [
             "9M",
             "8M"
          ],
-         "helpinghand":[
+         "helpinghand": [
             "9M",
             "9L32",
             "8M",
             "8L32"
          ],
-         "highhorsepower":[
+         "highhorsepower": [
             "8M"
          ],
-         "hyperbeam":[
+         "hyperbeam": [
             "9M",
             "8M"
          ],
-         "icebeam":[
+         "icebeam": [
             "9M",
             "8M"
          ],
-         "iciclecrash":[
+         "iciclecrash": [
             "9L1",
             "8L1"
          ],
-         "iciclespear":[
+         "iciclespear": [
             "8M"
          ],
-         "icywind":[
+         "icywind": [
             "9M",
             "8M"
          ],
-         "imprison":[
+         "imprison": [
             "9M",
             "8M"
          ],
-         "irondefense":[
+         "irondefense": [
             "9M",
             "9L1",
             "8M",
             "8L1",
             "8S0"
          ],
-         "lashout":[
+         "lashout": [
             "8T"
          ],
-         "leafstorm":[
+         "leafstorm": [
             "9M",
             "8M"
          ],
-         "leechseed":[
+         "leechseed": [
             "9L64",
             "8L64"
          ],
-         "lifedew":[
+         "lifedew": [
             "9L8",
             "8L8"
          ],
-         "lightscreen":[
+         "lightscreen": [
             "9M",
             "8M"
          ],
-         "magicalleaf":[
+         "magicalleaf": [
             "9M",
             "8M"
          ],
-         "magicroom":[
+         "magicroom": [
             "8M"
          ],
-         "megadrain":[
+         "megadrain": [
             "9L1",
             "8L1"
          ],
-         "megahorn":[
+         "megahorn": [
             "8M"
          ],
-         "metronome":[
+         "metronome": [
             "9M",
             "8M"
          ],
-         "mist":[
+         "mist": [
             "9L1",
             "8L1"
          ],
-         "mudshot":[
+         "mudshot": [
             "9M",
             "8M"
          ],
-         "outrage":[
+         "outrage": [
             "9M",
             "8M"
          ],
-         "payback":[
+         "payback": [
             "8M"
          ],
-         "payday":[
+         "payday": [
             "8M"
          ],
-         "pollenpuff":[
+         "pollenpuff": [
             "9M",
             "8M"
          ],
-         "pound":[
+         "pound": [
             "9L1",
             "8L1"
          ],
-         "powerswap":[
+         "powerswap": [
             "8M"
          ],
-         "protect":[
+         "protect": [
             "9M",
             "8M"
          ],
-         "psybeam":[
+         "psybeam": [
             "9M"
          ],
-         "psychic":[
+         "psychic": [
             "9M",
             "9L56",
             "8M",
             "8L56",
             "8S0"
          ],
-         "psychicterrain":[
+         "psychicterrain": [
             "9M",
             "8M"
          ],
-         "psyshock":[
+         "psyshock": [
             "9M",
             "9L24",
             "8M",
             "8L24"
          ],
-         "reflect":[
+         "reflect": [
             "9M",
             "8M"
          ],
-         "rest":[
+         "rest": [
             "9M",
             "8M"
          ],
-         "round":[
+         "round": [
             "8M"
          ],
-         "safeguard":[
+         "safeguard": [
             "8M"
          ],
-         "scaryface":[
+         "scaryface": [
             "9M",
             "8M"
          ],
-         "seedbomb":[
+         "seedbomb": [
             "9M",
             "8M"
          ],
-         "skillswap":[
+         "skillswap": [
             "9M",
             "8M"
          ],
-         "sleeptalk":[
+         "sleeptalk": [
             "9M",
             "8M"
          ],
-         "smartstrike":[
+         "smartstrike": [
             "9M",
             "8M"
          ],
-         "snarl":[
+         "snarl": [
             "9M",
             "8M"
          ],
-         "snore":[
+         "snore": [
             "8M"
          ],
-         "snowscape":[
+         "snowscape": [
             "9M"
          ],
-         "solarbeam":[
+         "solarbeam": [
             "9M",
             "9L80",
             "8M",
             "8L80"
          ],
-         "solarblade":[
+         "solarblade": [
             "8M"
          ],
-         "speedswap":[
+         "speedswap": [
             "8M"
          ],
-         "stomp":[
+         "stomp": [
             "9L1",
             "8L1"
          ],
-         "stompingtantrum":[
+         "stompingtantrum": [
             "9M",
             "8M"
          ],
-         "storedpower":[
+         "storedpower": [
             "9M",
             "8M"
          ],
-         "substitute":[
+         "substitute": [
             "9M",
             "8M"
          ],
-         "sunnyday":[
+         "sunnyday": [
             "9M",
             "8M"
          ],
-         "superpower":[
+         "superpower": [
             "8M"
          ],
-         "swift":[
+         "swift": [
             "9M",
             "8M"
          ],
-         "swordsdance":[
-            "9M",
-            "9L1",
-            "8M",
-            "8L1"
-         ],
-         "tackle":[
-            "9L1",
-            "8L1"
-         ],
-         "tailwhip":[
-            "9L1",
-            "8L1"
-         ],
-         "takedown":[
-            "9M",
-            "9L1",
-            "8L1"
-         ],
-         "taunt":[
+         "swordsdance": [
             "9M",
             "9L1",
             "8M",
             "8L1"
          ],
-         "terablast":[
-            "9M"
-         ],
-         "thrash":[
+         "tackle": [
             "9L1",
             "8L1"
          ],
-         "throatchop":[
-            "8M"
-         ],
-         "torment":[
+         "tailwhip": [
             "9L1",
             "8L1"
          ],
-         "trailblaze":[
+         "takedown": [
+            "9M",
+            "9L1",
+            "8L1"
+         ],
+         "taunt": [
+            "9M",
+            "9L1",
+            "8M",
+            "8L1"
+         ],
+         "terablast": [
             "9M"
          ],
-         "triattack":[
+         "thrash": [
+            "9L1",
+            "8L1"
+         ],
+         "throatchop": [
             "8M"
          ],
-         "trick":[
+         "torment": [
+            "9L1",
+            "8L1"
+         ],
+         "trailblaze": [
+            "9M"
+         ],
+         "triattack": [
+            "8M"
+         ],
+         "trick": [
             "9M",
             "8M"
          ],
-         "trickroom":[
+         "trickroom": [
             "9M",
             "8M"
          ],
-         "uproar":[
+         "uproar": [
             "8M"
          ],
-         "wonderroom":[
+         "wonderroom": [
             "8M"
          ],
-         "zenheadbutt":[
+         "zenheadbutt": [
             "9M",
             "8M"
          ]
       },
-      "eventData":[
+      "eventData": [
          {
-            "generation":8,
-            "level":80,
-            "moves":[
+            "generation": 8,
+            "level": 80,
+            "moves": [
                "glaciallance",
                "psychic",
                "irondefense",
@@ -1821,399 +1821,399 @@
             ]
          }
       ],
-      "eventOnly":true
+      "eventOnly": true
    },
-   "calyrexshadow":{
-      "learnset":{
-         "agility":[
+   "calyrexshadow": {
+      "learnset": {
+         "agility": [
             "9M",
             "9L1",
             "8M",
             "8L1",
             "8S0"
          ],
-         "allyswitch":[
+         "allyswitch": [
             "8M"
          ],
-         "aromatherapy":[
+         "aromatherapy": [
             "8L40"
          ],
-         "assurance":[
+         "assurance": [
             "8M"
          ],
-         "astralbarrage":[
+         "astralbarrage": [
             "9L1",
             "8L1",
             "8S0"
          ],
-         "batonpass":[
+         "batonpass": [
             "9M",
             "8M"
          ],
-         "bodyslam":[
+         "bodyslam": [
             "9M",
             "8M"
          ],
-         "bulldoze":[
+         "bulldoze": [
             "9M",
             "8M"
          ],
-         "bulletseed":[
+         "bulletseed": [
             "9M",
             "8M"
          ],
-         "calmmind":[
+         "calmmind": [
             "9M",
             "8M"
          ],
-         "confuseray":[
+         "confuseray": [
             "9M",
             "9L1",
             "8L1"
          ],
-         "confusion":[
+         "confusion": [
             "9L1",
             "8L1"
          ],
-         "crunch":[
+         "crunch": [
             "9M",
             "8M"
          ],
-         "darkpulse":[
+         "darkpulse": [
             "9M",
             "8M"
          ],
-         "disable":[
+         "disable": [
             "9L1",
             "8L1"
          ],
-         "doubleedge":[
+         "doubleedge": [
             "9L1",
             "8L1"
          ],
-         "doublekick":[
+         "doublekick": [
             "9L1",
             "8L1"
          ],
-         "drainingkiss":[
+         "drainingkiss": [
             "9M",
             "8M"
          ],
-         "encore":[
+         "encore": [
             "9M",
             "8M"
          ],
-         "endure":[
+         "endure": [
             "9M",
             "8M"
          ],
-         "energyball":[
+         "energyball": [
             "9M",
             "9L48",
             "8M",
             "8L48"
          ],
-         "expandingforce":[
+         "expandingforce": [
             "8T"
          ],
-         "facade":[
+         "facade": [
             "9M",
             "8M"
          ],
-         "foulplay":[
+         "foulplay": [
             "9M",
             "8M"
          ],
-         "futuresight":[
+         "futuresight": [
             "9L88",
             "8M",
             "8L88"
          ],
-         "gigadrain":[
+         "gigadrain": [
             "9M",
             "9L16",
             "8M",
             "8L16",
             "8S0"
          ],
-         "gigaimpact":[
+         "gigaimpact": [
             "9M",
             "8M"
          ],
-         "grassknot":[
+         "grassknot": [
             "9M",
             "8M"
          ],
-         "grassyterrain":[
+         "grassyterrain": [
             "9M",
             "9L40",
             "8M"
          ],
-         "growth":[
+         "growth": [
             "9L1",
             "8L1"
          ],
-         "guardswap":[
+         "guardswap": [
             "8M"
          ],
-         "haze":[
+         "haze": [
             "9L1",
             "8L1"
          ],
-         "healpulse":[
+         "healpulse": [
             "9L72",
             "8L72"
          ],
-         "helpinghand":[
+         "helpinghand": [
             "9M",
             "9L32",
             "8M",
             "8L32"
          ],
-         "hex":[
+         "hex": [
             "9M",
             "9L1",
             "8M",
             "8L1"
          ],
-         "hyperbeam":[
+         "hyperbeam": [
             "9M",
             "8M"
          ],
-         "imprison":[
+         "imprison": [
             "9M",
             "8M"
          ],
-         "lashout":[
+         "lashout": [
             "8T"
          ],
-         "leafstorm":[
+         "leafstorm": [
             "9M",
             "8M"
          ],
-         "leechseed":[
+         "leechseed": [
             "9L64",
             "8L64"
          ],
-         "lifedew":[
+         "lifedew": [
             "9L8",
             "8L8"
          ],
-         "lightscreen":[
+         "lightscreen": [
             "9M",
             "8M"
          ],
-         "magicalleaf":[
+         "magicalleaf": [
             "9M",
             "8M"
          ],
-         "magicroom":[
+         "magicroom": [
             "8M"
          ],
-         "megadrain":[
+         "megadrain": [
             "9L1",
             "8L1"
          ],
-         "metronome":[
+         "metronome": [
             "9M",
             "8M"
          ],
-         "mudshot":[
+         "mudshot": [
             "9M",
             "8M"
          ],
-         "nastyplot":[
+         "nastyplot": [
             "9M",
             "9L1",
             "8M",
             "8L1"
          ],
-         "nightshade":[
+         "nightshade": [
             "9M"
          ],
-         "payback":[
+         "payback": [
             "8M"
          ],
-         "payday":[
+         "payday": [
             "8M"
          ],
-         "phantomforce":[
+         "phantomforce": [
             "9M",
             "8M"
          ],
-         "pollenpuff":[
+         "pollenpuff": [
             "9M",
             "8M"
          ],
-         "pound":[
+         "pound": [
             "9L1",
             "8L1"
          ],
-         "powerswap":[
+         "powerswap": [
             "8M"
          ],
-         "protect":[
+         "protect": [
             "9M",
             "8M"
          ],
-         "psybeam":[
+         "psybeam": [
             "9M"
          ],
-         "psychic":[
+         "psychic": [
             "9M",
             "9L56",
             "8M",
             "8L56",
             "8S0"
          ],
-         "psychicterrain":[
+         "psychicterrain": [
             "9M",
             "9L40",
             "8M"
          ],
-         "psychocut":[
+         "psychocut": [
             "8M"
          ],
-         "psyshock":[
+         "psyshock": [
             "9M",
             "9L24",
             "8M",
             "8L24"
          ],
-         "reflect":[
+         "reflect": [
             "9M",
             "8M"
          ],
-         "rest":[
+         "rest": [
             "9M",
             "8M"
          ],
-         "round":[
+         "round": [
             "8M"
          ],
-         "safeguard":[
+         "safeguard": [
             "8M"
          ],
-         "scaryface":[
+         "scaryface": [
             "9M",
             "8M"
          ],
-         "seedbomb":[
+         "seedbomb": [
             "9M",
             "8M"
          ],
-         "shadowball":[
+         "shadowball": [
             "9M",
             "9L1",
             "8M",
             "8L1"
          ],
-         "skillswap":[
+         "skillswap": [
             "9M",
             "8M"
          ],
-         "sleeptalk":[
+         "sleeptalk": [
             "9M",
             "8M"
          ],
-         "snarl":[
+         "snarl": [
             "9M",
             "8M"
          ],
-         "snore":[
+         "snore": [
             "8M"
          ],
-         "solarbeam":[
+         "solarbeam": [
             "9M",
             "9L80",
             "8M",
             "8L80"
          ],
-         "solarblade":[
+         "solarblade": [
             "8M"
          ],
-         "speedswap":[
+         "speedswap": [
             "8M"
          ],
-         "stomp":[
+         "stomp": [
             "9L1",
             "8L1"
          ],
-         "stompingtantrum":[
+         "stompingtantrum": [
             "9M",
             "8M"
          ],
-         "storedpower":[
+         "storedpower": [
             "9M",
             "8M"
          ],
-         "substitute":[
+         "substitute": [
             "9M",
             "8M"
          ],
-         "sunnyday":[
+         "sunnyday": [
             "9M",
             "8M"
          ],
-         "swift":[
+         "swift": [
             "9M",
             "8M"
          ],
-         "tackle":[
+         "tackle": [
             "9L1",
             "8L1"
          ],
-         "tailwhip":[
+         "tailwhip": [
             "9L1",
             "8L1"
          ],
-         "takedown":[
+         "takedown": [
             "9M",
             "9L1",
             "8L1"
          ],
-         "taunt":[
+         "taunt": [
             "9M",
             "8M"
          ],
-         "terablast":[
+         "terablast": [
             "9M"
          ],
-         "thrash":[
+         "thrash": [
             "9L1",
             "8L1"
          ],
-         "triattack":[
+         "triattack": [
             "8M"
          ],
-         "trick":[
+         "trick": [
             "9M",
             "8M"
          ],
-         "trickroom":[
+         "trickroom": [
             "9M",
             "8M"
          ],
-         "uproar":[
+         "uproar": [
             "8M"
          ],
-         "willowisp":[
+         "willowisp": [
             "9M",
             "8M"
          ],
-         "wonderroom":[
+         "wonderroom": [
             "8M"
          ],
-         "zenheadbutt":[
+         "zenheadbutt": [
             "9M",
             "8M"
          ]
       },
-      "eventData":[
+      "eventData": [
          {
-            "generation":8,
-            "level":80,
-            "moves":[
+            "generation": 8,
+            "level": 80,
+            "moves": [
                "astralbarrage",
                "psychic",
                "agility",
@@ -2221,646 +2221,659 @@
             ]
          }
       ],
-      "eventOnly":true
+      "eventOnly": true
    },
-   "mausholdfour":{
-      "learnset":{
-         "aerialace":[
+   "mausholdfour": {
+      "learnset": {
+         "aerialace": [
             "9M"
          ],
-         "agility":[
+         "agility": [
             "9M"
          ],
-         "babydolleyes":[
+         "babydolleyes": [
             "9L1"
          ],
-         "beatup":[
+         "beatup": [
             "9L41"
          ],
-         "bulletseed":[
+         "bulletseed": [
             "9M",
             "9L18"
          ],
-         "charm":[
+         "charm": [
             "9M",
             "9L37"
          ],
-         "chillingwater":[
+         "chillingwater": [
             "9M"
          ],
-         "copycat":[
+         "copycat": [
             "9L46"
          ],
-         "crunch":[
+         "crunch": [
             "9M"
          ],
-         "dig":[
+         "dig": [
             "9M"
          ],
-         "doublehit":[
+         "doublehit": [
             "9L14"
          ],
-         "echoedvoice":[
+         "echoedvoice": [
             "9L5"
          ],
-         "encore":[
+         "encore": [
             "9M",
             "9L22"
          ],
-         "endure":[
+         "endure": [
             "9M"
          ],
-         "facade":[
+         "facade": [
             "9M"
          ],
-         "faketears":[
+         "faketears": [
             "9M"
          ],
-         "followme":[
+         "followme": [
             "9L1"
          ],
-         "gigaimpact":[
+         "gigaimpact": [
             "9M"
          ],
-         "grassknot":[
+         "grassknot": [
             "9M"
          ],
-         "helpinghand":[
+         "helpinghand": [
             "9M",
             "9L8"
          ],
-         "hyperbeam":[
+         "hyperbeam": [
             "9M"
          ],
-         "hypervoice":[
+         "hypervoice": [
             "9M",
             "9L33"
          ],
-         "lowkick":[
+         "lowkick": [
             "9M"
          ],
-         "lowsweep":[
+         "lowsweep": [
             "9M"
          ],
-         "mudshot":[
+         "mudshot": [
             "9M"
          ],
-         "mudslap":[
+         "mudslap": [
             "9M"
          ],
-         "playrough":[
+         "playrough": [
             "9M",
             "9L29"
          ],
-         "populationbomb":[
+         "populationbomb": [
             "9L53"
          ],
-         "pound":[
+         "pound": [
             "9L1"
          ],
-         "protect":[
+         "protect": [
             "9M"
          ],
-         "raindance":[
+         "raindance": [
             "9M"
          ],
-         "rest":[
+         "rest": [
             "9M"
          ],
-         "seedbomb":[
+         "seedbomb": [
             "9M"
          ],
-         "shadowclaw":[
+         "shadowclaw": [
             "9M"
          ],
-         "sleeptalk":[
+         "sleeptalk": [
             "9M"
          ],
-         "substitute":[
+         "substitute": [
             "9M"
          ],
-         "sunnyday":[
+         "sunnyday": [
             "9M"
          ],
-         "superfang":[
+         "superfang": [
             "9L11"
          ],
-         "swift":[
+         "swift": [
             "9M"
          ],
-         "takedown":[
+         "takedown": [
             "9M"
          ],
-         "taunt":[
+         "taunt": [
             "9M"
          ],
-         "terablast":[
+         "terablast": [
             "9M"
          ],
-         "thief":[
+         "thief": [
             "9M"
          ],
-         "thunderwave":[
+         "thunderwave": [
             "9M"
          ],
-         "tidyup":[
+         "tidyup": [
             "9L1"
          ],
-         "trailblaze":[
+         "trailblaze": [
             "9M"
          ],
-         "uturn":[
+         "uturn": [
             "9M"
          ],
-         "waterpulse":[
+         "waterpulse": [
             "9M"
          ]
       }
    },
-   "greninjaash":{
-      "learnset":{
-         "acrobatics":[
+   "greninjaash": {
+      "learnset": {
+         "acrobatics": [
             "7M"
          ],
-         "aerialace":[
+         "aerialace": [
             "9M",
             "9L33",
             "7M",
             "7S0"
          ],
-         "attract":[
+         "attract": [
             "7M"
          ],
-         "blizzard":[
+         "blizzard": [
             "9M",
             "7M"
          ],
-         "bounce":[
+         "bounce": [
             "7T"
          ],
-         "brickbreak":[
+         "brickbreak": [
             "9M"
          ],
-         "brutalswing":[
+         "brutalswing": [
             "7M"
          ],
-         "bubble":[
+         "bubble": [
             "7L1"
          ],
-         "chillingwater":[
+         "chillingwater": [
             "9M"
          ],
-         "confide":[
+         "confide": [
             "7M"
          ],
-         "darkpulse":[
+         "darkpulse": [
             "9M",
             "7M"
          ],
-         "dig":[
+         "dig": [
             "9M"
          ],
-         "doubleteam":[
+         "doubleteam": [
             "9L56",
             "7M",
             "7L56",
             "7S0"
          ],
-         "echoedvoice":[
+         "echoedvoice": [
             "7M"
          ],
-         "endure":[
+         "endure": [
             "9M"
          ],
-         "extrasensory":[
+         "extrasensory": [
             "9L49",
             "7L49"
          ],
-         "facade":[
+         "facade": [
             "9M",
             "7M"
          ],
-         "falseswipe":[
+         "falseswipe": [
             "9M"
          ],
-         "feintattack":[
+         "feintattack": [
             "7L33"
          ],
-         "fling":[
+         "fling": [
             "9M",
             "7M"
          ],
-         "frustration":[
+         "frustration": [
             "7M"
          ],
-         "gigaimpact":[
+         "gigaimpact": [
             "9M",
             "7M"
          ],
-         "grassknot":[
+         "grassknot": [
             "9M",
             "7M"
          ],
-         "growl":[
+         "growl": [
             "9L1",
             "7L1"
          ],
-         "gunkshot":[
+         "gunkshot": [
             "9M",
             "7T"
          ],
-         "haze":[
+         "haze": [
             "9L1",
             "7L1"
          ],
-         "helpinghand":[
+         "helpinghand": [
             "9M"
          ],
-         "hiddenpower":[
+         "hiddenpower": [
             "7M"
          ],
-         "hydrocannon":[
+         "hydrocannon": [
             "9M",
             "7T"
          ],
-         "hydropump":[
+         "hydropump": [
             "9M",
             "9L68",
             "7L68"
          ],
-         "hyperbeam":[
+         "hyperbeam": [
             "9M",
             "7M"
          ],
-         "icebeam":[
+         "icebeam": [
             "9M",
             "7M"
          ],
-         "icepunch":[
+         "icepunch": [
             "9M",
             "7T"
          ],
-         "icywind":[
+         "icywind": [
             "9M",
             "7T"
          ],
-         "lick":[
+         "lick": [
             "9L10",
             "7L10"
          ],
-         "liquidation":[
+         "liquidation": [
             "9M"
          ],
-         "lowkick":[
+         "lowkick": [
             "9M",
             "7T"
          ],
-         "lowsweep":[
+         "lowsweep": [
             "9M"
          ],
-         "matblock":[
+         "matblock": [
             "7L1"
          ],
-         "mudshot":[
+         "mudshot": [
             "9M"
          ],
-         "mudslap":[
+         "mudslap": [
             "9M"
          ],
-         "nightslash":[
+         "nightslash": [
             "9L1",
             "7L1",
             "7S0"
          ],
-         "pound":[
+         "pound": [
             "9L1",
             "7L1"
          ],
-         "protect":[
+         "protect": [
             "9M",
             "7M"
          ],
-         "quickattack":[
+         "quickattack": [
             "9L1",
             "7L1"
          ],
-         "raindance":[
+         "raindance": [
             "9M",
             "7M"
          ],
-         "rest":[
+         "rest": [
             "9M",
             "7M"
          ],
-         "return":[
+         "return": [
             "7M"
          ],
-         "rockslide":[
+         "rockslide": [
             "9M",
             "7M"
          ],
-         "rocktomb":[
+         "rocktomb": [
             "9M",
             "7M"
          ],
-         "roleplay":[
+         "roleplay": [
             "9L1",
             "7T",
             "7L1"
          ],
-         "round":[
+         "round": [
             "7M"
          ],
-         "scald":[
+         "scald": [
             "7M"
          ],
-         "shadowsneak":[
+         "shadowsneak": [
             "9L23",
             "7L23"
          ],
-         "sleeptalk":[
+         "sleeptalk": [
             "9M",
             "7M"
          ],
-         "smackdown":[
+         "smackdown": [
             "7M"
          ],
-         "smokescreen":[
+         "smokescreen": [
             "9L19",
             "7L19"
          ],
-         "snatch":[
+         "snatch": [
             "7T"
          ],
-         "snore":[
+         "snore": [
             "7T"
          ],
-         "snowscape":[
+         "snowscape": [
             "9M"
          ],
-         "spikes":[
+         "spikes": [
             "9M",
             "9L28",
             "7L28"
          ],
-         "spite":[
+         "spite": [
             "7T"
          ],
-         "substitute":[
+         "substitute": [
             "9M",
             "9L42",
             "7M",
             "7L42"
          ],
-         "surf":[
+         "surf": [
             "9M",
             "7M"
          ],
-         "swagger":[
+         "swagger": [
             "7M"
          ],
-         "swift":[
+         "swift": [
             "9M"
          ],
-         "swordsdance":[
+         "swordsdance": [
             "9M"
          ],
-         "takedown":[
+         "takedown": [
             "9M"
          ],
-         "taunt":[
+         "taunt": [
             "9M",
             "7M"
          ],
-         "terablast":[
+         "terablast": [
             "9M"
          ],
-         "thief":[
+         "thief": [
             "9M",
             "7M"
          ],
-         "toxic":[
+         "toxic": [
             "7M"
          ],
-         "toxicspikes":[
+         "toxicspikes": [
             "9M"
          ],
-         "trailblaze":[
+         "trailblaze": [
             "9M"
          ],
-         "uturn":[
+         "uturn": [
             "9M",
             "7M"
          ],
-         "waterfall":[
+         "waterfall": [
             "9M",
             "7M"
          ],
-         "watergun":[
+         "watergun": [
             "9L1"
          ],
-         "waterpledge":[
+         "waterpledge": [
             "9M",
             "7T"
          ],
-         "waterpulse":[
+         "waterpulse": [
             "9M",
             "9L14",
             "7T",
             "7L14"
          ],
-         "watershuriken":[
+         "watershuriken": [
             "9L0",
             "7L1",
             "7S0"
          ],
-         "workup":[
+         "workup": [
             "7M"
          ]
       },
-      "eventData":[
+      "eventData": [
          {
-            "generation":7,
-            "level":36,
-            "ivs":{
-               "hp":20,
-               "atk":31,
-               "def":20,
-               "spa":31,
-               "spd":20,
-               "spe":31
+            "generation": 7,
+            "level": 36,
+            "ivs": {
+               "hp": 20,
+               "atk": 31,
+               "def": 20,
+               "spa": 31,
+               "spd": 20,
+               "spe": 31
             },
-            "moves":[
+            "moves": [
                "watershuriken",
                "aerialace",
                "doubleteam",
                "nightslash"
             ],
-            "pokeball":"pokeball"
+            "pokeball": "pokeball"
          }
       ],
-      "eventOnly":true
+      "eventOnly": true
    },
-   "enamorustherian":{
-      "learnset":{
-         "agility":[
+   "enamorustherian": {
+      "learnset": {
+         "agility": [
             "9M"
          ],
-         "astonish":[
+         "alluringvoice": [
+            "9M"
+         ],
+         "astonish": [
             "9L1"
          ],
-         "bodyslam":[
+         "bodyslam": [
             "9M"
          ],
-         "calmmind":[
+         "calmmind": [
             "9M"
          ],
-         "dazzlinggleam":[
+         "dazzlinggleam": [
             "9M",
             "9L40"
          ],
-         "disarmingvoice":[
+         "disarmingvoice": [
             "9M"
          ],
-         "drainingkiss":[
+         "drainingkiss": [
             "9M",
             "9L20"
          ],
-         "earthpower":[
+         "earthpower": [
             "9M"
          ],
-         "endure":[
+         "endure": [
             "9M"
          ],
-         "extrasensory":[
+         "extrasensory": [
             "9L45"
          ],
-         "facade":[
+         "facade": [
             "9M"
          ],
-         "fairywind":[
+         "fairywind": [
             "9L1"
          ],
-         "flatter":[
+         "flatter": [
             "9L10"
          ],
-         "fly":[
+         "fly": [
             "9M"
          ],
-         "focusblast":[
+         "focusblast": [
             "9M"
          ],
-         "gigaimpact":[
+         "gigaimpact": [
             "9M"
          ],
-         "grassknot":[
+         "grassknot": [
             "9M"
          ],
-         "grassyterrain":[
+         "grassyterrain": [
             "9M"
          ],
-         "healingwish":[
+         "healingwish": [
             "9L60"
          ],
-         "hyperbeam":[
+         "hyperbeam": [
             "9M"
          ],
-         "imprison":[
+         "imprison": [
             "9M",
             "9L30"
          ],
-         "irondefense":[
+         "irondefense": [
             "9M",
             "9L25"
          ],
-         "ironhead":[
+         "ironhead": [
             "9M"
          ],
-         "mistyterrain":[
+         "mistyexplosion": [
             "9M"
          ],
-         "moonblast":[
+         "mistyterrain": [
+            "9M"
+         ],
+         "moonblast": [
             "9L65"
          ],
-         "mysticalfire":[
+         "mysticalfire": [
             "9L35"
          ],
-         "outrage":[
+         "outrage": [
             "9M",
             "9L70"
          ],
-         "playrough":[
+         "playrough": [
             "9M"
          ],
-         "protect":[
+         "protect": [
             "9M"
          ],
-         "psychic":[
+         "psychic": [
             "9M"
          ],
-         "raindance":[
+         "psychup": [
             "9M"
          ],
-         "rest":[
+         "raindance": [
             "9M"
          ],
-         "scaryface":[
+         "rest": [
             "9M"
          ],
-         "sleeptalk":[
+         "scaryface": [
             "9M"
          ],
-         "sludgebomb":[
+         "sleeptalk": [
             "9M"
          ],
-         "springtidestorm":[
+         "sludgebomb": [
+            "9M"
+         ],
+         "springtidestorm": [
             "9L75"
          ],
-         "substitute":[
+         "substitute": [
             "9M"
          ],
-         "sunnyday":[
+         "sunnyday": [
             "9M"
          ],
-         "superpower":[
+         "superpower": [
             "9L55"
          ],
-         "tailwind":[
+         "tailwind": [
             "9M"
          ],
-         "takedown":[
+         "takedown": [
             "9M"
          ],
-         "taunt":[
+         "taunt": [
             "9M"
          ],
-         "terablast":[
+         "terablast": [
             "9M"
          ],
-         "torment":[
+         "torment": [
             "9L5"
          ],
-         "twister":[
+         "twister": [
             "9L15"
          ],
-         "uproar":[
+         "uproar": [
+            "9M",
             "9L50"
          ],
-         "zenheadbutt":[
+         "weatherball": [
+            "9M"
+         ],
+         "zenheadbutt": [
             "9M"
          ]
       }
    },
-   "nidoranf":{
-      "learnset":{
-         "aerialace":[
+   "nidoranf": {
+      "learnset": {
+         "aerialace": [
             "7M",
             "6M",
             "5M",
             "4M",
             "3M"
          ],
-         "attract":[
+         "attract": [
             "8M",
             "7M",
             "7V",
@@ -2869,7 +2882,7 @@
             "4M",
             "3M"
          ],
-         "beatup":[
+         "beatup": [
             "8M",
             "7E",
             "7V",
@@ -2878,10 +2891,10 @@
             "4E",
             "3E"
          ],
-         "bide":[
+         "bide": [
             "7V"
          ],
-         "bite":[
+         "bite": [
             "8L30",
             "8V",
             "7L21",
@@ -2891,7 +2904,7 @@
             "4L21",
             "3L20"
          ],
-         "blizzard":[
+         "blizzard": [
             "8M",
             "8V",
             "7M",
@@ -2901,19 +2914,19 @@
             "4M",
             "3M"
          ],
-         "bodyslam":[
+         "bodyslam": [
             "8M",
             "7V",
             "3T"
          ],
-         "captivate":[
+         "captivate": [
             "7L43",
             "6L43",
             "5L43",
             "4M",
             "4L43"
          ],
-         "charm":[
+         "charm": [
             "8M",
             "7E",
             "7V",
@@ -2922,16 +2935,16 @@
             "4E",
             "3E"
          ],
-         "chipaway":[
+         "chipaway": [
             "7E",
             "6E",
             "5E"
          ],
-         "confide":[
+         "confide": [
             "7M",
             "6M"
          ],
-         "counter":[
+         "counter": [
             "8E",
             "7E",
             "7V",
@@ -2941,7 +2954,7 @@
             "3T",
             "3E"
          ],
-         "crunch":[
+         "crunch": [
             "8M",
             "8L50",
             "8V",
@@ -2951,23 +2964,23 @@
             "4L37",
             "3L47"
          ],
-         "curse":[
+         "curse": [
             "7V"
          ],
-         "cut":[
+         "cut": [
             "6M",
             "5M",
             "4M",
             "3M"
          ],
-         "defensecurl":[
+         "defensecurl": [
             "7V",
             "3T"
          ],
-         "detect":[
+         "detect": [
             "7V"
          ],
-         "dig":[
+         "dig": [
             "8M",
             "8V",
             "6M",
@@ -2975,7 +2988,7 @@
             "4M",
             "3M"
          ],
-         "disable":[
+         "disable": [
             "8E",
             "7E",
             "7V",
@@ -2984,11 +2997,11 @@
             "4E",
             "3E"
          ],
-         "doubleedge":[
+         "doubleedge": [
             "7V",
             "3T"
          ],
-         "doublekick":[
+         "doublekick": [
             "8L25",
             "8V",
             "7L9",
@@ -2998,7 +3011,7 @@
             "4L9",
             "3L12"
          ],
-         "doubleteam":[
+         "doubleteam": [
             "7M",
             "7V",
             "6M",
@@ -3006,15 +3019,15 @@
             "4M",
             "3M"
          ],
-         "earthpower":[
+         "earthpower": [
             "8M",
             "8L55"
          ],
-         "echoedvoice":[
+         "echoedvoice": [
             "7M",
             "6M"
          ],
-         "endure":[
+         "endure": [
             "8M",
             "7E",
             "7V",
@@ -3023,7 +3036,7 @@
             "4M",
             "3T"
          ],
-         "facade":[
+         "facade": [
             "8M",
             "8V",
             "7M",
@@ -3032,7 +3045,7 @@
             "4M",
             "3M"
          ],
-         "flatter":[
+         "flatter": [
             "8L45",
             "7L33",
             "6L33",
@@ -3040,7 +3053,7 @@
             "4L33",
             "3L38"
          ],
-         "focusenergy":[
+         "focusenergy": [
             "8M",
             "7E",
             "7V",
@@ -3049,7 +3062,7 @@
             "4E",
             "3E"
          ],
-         "frustration":[
+         "frustration": [
             "7M",
             "7V",
             "6M",
@@ -3057,7 +3070,7 @@
             "4M",
             "3M"
          ],
-         "furyswipes":[
+         "furyswipes": [
             "8L15",
             "8V",
             "7L19",
@@ -3067,7 +3080,7 @@
             "4L19",
             "3L30"
          ],
-         "growl":[
+         "growl": [
             "8L1",
             "8V",
             "7L1",
@@ -3077,12 +3090,12 @@
             "4L1",
             "3L1"
          ],
-         "headbutt":[
+         "headbutt": [
             "8V",
             "7V",
             "4T"
          ],
-         "helpinghand":[
+         "helpinghand": [
             "8M",
             "8L35",
             "8V",
@@ -3096,7 +3109,7 @@
             "4L25",
             "3L23"
          ],
-         "hiddenpower":[
+         "hiddenpower": [
             "7M",
             "7V",
             "6M",
@@ -3104,11 +3117,11 @@
             "4M",
             "3M"
          ],
-         "honeclaws":[
+         "honeclaws": [
             "6M",
             "5M"
          ],
-         "icebeam":[
+         "icebeam": [
             "8M",
             "8V",
             "7M",
@@ -3117,7 +3130,7 @@
             "4M",
             "3M"
          ],
-         "irontail":[
+         "irontail": [
             "8M",
             "8V",
             "7T",
@@ -3130,26 +3143,26 @@
             "4M",
             "3M"
          ],
-         "mimic":[
+         "mimic": [
             "7V",
             "3T"
          ],
-         "mudslap":[
+         "mudslap": [
             "7V",
             "4T",
             "3T"
          ],
-         "naturalgift":[
+         "naturalgift": [
             "4M"
          ],
-         "poisonfang":[
+         "poisonfang": [
             "8E",
             "7L45",
             "6L45",
             "5L45",
             "4L45"
          ],
-         "poisonjab":[
+         "poisonjab": [
             "8M",
             "8V",
             "7M",
@@ -3157,7 +3170,7 @@
             "5M",
             "4M"
          ],
-         "poisonsting":[
+         "poisonsting": [
             "8L1",
             "8V",
             "7L13",
@@ -3167,13 +3180,13 @@
             "4L13",
             "3L17"
          ],
-         "poisontail":[
+         "poisontail": [
             "8E",
             "7E",
             "6E",
             "5E"
          ],
-         "protect":[
+         "protect": [
             "8M",
             "8V",
             "7M",
@@ -3183,16 +3196,16 @@
             "4M",
             "3M"
          ],
-         "pursuit":[
+         "pursuit": [
             "7E",
             "6E",
             "5E",
             "4E"
          ],
-         "rage":[
+         "rage": [
             "7V"
          ],
-         "raindance":[
+         "raindance": [
             "8M",
             "7M",
             "7V",
@@ -3201,11 +3214,11 @@
             "4M",
             "3M"
          ],
-         "reflect":[
+         "reflect": [
             "8V",
             "7V"
          ],
-         "rest":[
+         "rest": [
             "8M",
             "8V",
             "7M",
@@ -3215,7 +3228,7 @@
             "4M",
             "3M"
          ],
-         "return":[
+         "return": [
             "7M",
             "7V",
             "6M",
@@ -3223,19 +3236,19 @@
             "4M",
             "3M"
          ],
-         "rocksmash":[
+         "rocksmash": [
             "6M",
             "5M",
             "4M",
             "3M"
          ],
-         "round":[
+         "round": [
             "8M",
             "7M",
             "6M",
             "5M"
          ],
-         "scratch":[
+         "scratch": [
             "8L5",
             "8V",
             "7L1",
@@ -3246,25 +3259,25 @@
             "4L1",
             "3L1"
          ],
-         "secretpower":[
+         "secretpower": [
             "6M",
             "4M",
             "3M"
          ],
-         "shadowclaw":[
+         "shadowclaw": [
             "8M",
             "7M",
             "6M",
             "5M",
             "4M"
          ],
-         "shockwave":[
+         "shockwave": [
             "7T",
             "6T",
             "4M",
             "3M"
          ],
-         "skullbash":[
+         "skullbash": [
             "8E",
             "7E",
             "7V",
@@ -3272,7 +3285,7 @@
             "5E",
             "4E"
          ],
-         "sleeptalk":[
+         "sleeptalk": [
             "8M",
             "7M",
             "7V",
@@ -3281,7 +3294,7 @@
             "4M",
             "3T"
          ],
-         "sludgebomb":[
+         "sludgebomb": [
             "8M",
             "8V",
             "7M",
@@ -3290,7 +3303,7 @@
             "4M",
             "3M"
          ],
-         "snore":[
+         "snore": [
             "8M",
             "7T",
             "7V",
@@ -3299,13 +3312,13 @@
             "4T",
             "3T"
          ],
-         "strength":[
+         "strength": [
             "6M",
             "5M",
             "4M",
             "3M"
          ],
-         "substitute":[
+         "substitute": [
             "8M",
             "8V",
             "7M",
@@ -3315,10 +3328,10 @@
             "4M",
             "3T"
          ],
-         "suckerpunch":[
+         "suckerpunch": [
             "5D"
          ],
-         "sunnyday":[
+         "sunnyday": [
             "8M",
             "7M",
             "7V",
@@ -3327,7 +3340,7 @@
             "4M",
             "3M"
          ],
-         "superfang":[
+         "superfang": [
             "8V",
             "7T",
             "6T",
@@ -3335,7 +3348,7 @@
             "5D",
             "4T"
          ],
-         "supersonic":[
+         "supersonic": [
             "8E",
             "7E",
             "7V",
@@ -3344,7 +3357,7 @@
             "4E",
             "3E"
          ],
-         "swagger":[
+         "swagger": [
             "7M",
             "7V",
             "6M",
@@ -3352,10 +3365,10 @@
             "4M",
             "3T"
          ],
-         "tackle":[
+         "tackle": [
             "7V"
          ],
-         "tailwhip":[
+         "tailwhip": [
             "8L10",
             "8V",
             "7L7",
@@ -3365,7 +3378,7 @@
             "4L7",
             "3L8"
          ],
-         "takedown":[
+         "takedown": [
             "8E",
             "7E",
             "7V",
@@ -3374,7 +3387,7 @@
             "4E",
             "3E"
          ],
-         "thief":[
+         "thief": [
             "8M",
             "7M",
             "7V",
@@ -3383,17 +3396,7 @@
             "4M",
             "3M"
          ],
-         "thunder":[
-            "8M",
-            "8V",
-            "7M",
-            "7V",
-            "6M",
-            "5M",
-            "4M",
-            "3M"
-         ],
-         "thunderbolt":[
+         "thunder": [
             "8M",
             "8V",
             "7M",
@@ -3403,7 +3406,17 @@
             "4M",
             "3M"
          ],
-         "toxic":[
+         "thunderbolt": [
+            "8M",
+            "8V",
+            "7M",
+            "7V",
+            "6M",
+            "5M",
+            "4M",
+            "3M"
+         ],
+         "toxic": [
             "8L40",
             "8V",
             "7M",
@@ -3413,7 +3426,7 @@
             "4M",
             "3M"
          ],
-         "toxicspikes":[
+         "toxicspikes": [
             "8M",
             "8L20",
             "7L31",
@@ -3421,263 +3434,263 @@
             "5L31",
             "4L31"
          ],
-         "venomdrench":[
+         "venomdrench": [
             "8M",
             "7E",
             "6E"
          ],
-         "venoshock":[
+         "venoshock": [
             "8M",
             "7M",
             "6M",
             "5M"
          ],
-         "waterpulse":[
+         "waterpulse": [
             "7T",
             "6T",
             "4M",
             "3M"
          ]
       },
-      "encounters":[
+      "encounters": [
          {
-            "generation":1,
-            "level":2
+            "generation": 1,
+            "level": 2
          }
       ]
    },
-   "indeedeef":{
-      "learnset":{
-         "allyswitch":[
+   "indeedeef": {
+      "learnset": {
+         "allyswitch": [
             "8M"
          ],
-         "aromatherapy":[
+         "aromatherapy": [
             "8L30"
          ],
-         "attract":[
+         "attract": [
             "8M"
          ],
-         "batonpass":[
+         "batonpass": [
             "9M",
             "9L5",
             "8M",
             "8L5"
          ],
-         "bodyslam":[
+         "bodyslam": [
             "9M"
          ],
-         "calmmind":[
+         "calmmind": [
             "9M",
             "9L40",
             "8M",
             "8L40"
          ],
-         "charm":[
+         "charm": [
             "9M"
          ],
-         "dazzlinggleam":[
+         "dazzlinggleam": [
             "9M",
             "8M"
          ],
-         "disarmingvoice":[
+         "disarmingvoice": [
             "9M",
             "9L10",
             "8L10"
          ],
-         "drainingkiss":[
+         "drainingkiss": [
             "9M",
             "8M"
          ],
-         "drainpunch":[
+         "drainpunch": [
             "9M",
             "8M"
          ],
-         "endure":[
+         "endure": [
             "9M",
             "8M"
          ],
-         "energyball":[
+         "energyball": [
             "9M",
             "8M"
          ],
-         "expandingforce":[
+         "expandingforce": [
             "8T"
          ],
-         "facade":[
+         "facade": [
             "9M",
             "8M"
          ],
-         "fakeout":[
+         "fakeout": [
             "9E",
             "8E"
          ],
-         "followme":[
+         "followme": [
             "9L25",
             "8L25"
          ],
-         "futuresight":[
+         "futuresight": [
             "8M"
          ],
-         "guardsplit":[
+         "guardsplit": [
             "9L45",
             "8L45"
          ],
-         "guardswap":[
+         "guardswap": [
             "8M"
          ],
-         "healingwish":[
+         "healingwish": [
             "9L30",
             "8L55"
          ],
-         "healpulse":[
+         "healpulse": [
             "9E",
             "8E"
          ],
-         "helpinghand":[
+         "helpinghand": [
             "9M",
             "9L20",
             "8M",
             "8L20"
          ],
-         "hypervoice":[
+         "hypervoice": [
             "9M",
             "9S0",
             "8M"
          ],
-         "imprison":[
+         "imprison": [
             "9M",
             "8M"
          ],
-         "lightscreen":[
+         "lightscreen": [
             "9M",
             "8M"
          ],
-         "magicalleaf":[
+         "magicalleaf": [
             "9M",
             "8M"
          ],
-         "metronome":[
+         "metronome": [
             "9M",
             "8M"
          ],
-         "mysticalfire":[
+         "mysticalfire": [
             "8M"
          ],
-         "payday":[
+         "payday": [
             "8M"
          ],
-         "playnice":[
+         "playnice": [
             "9L1",
             "8L1"
          ],
-         "playrough":[
+         "playrough": [
             "9M",
             "8M"
          ],
-         "protect":[
+         "protect": [
             "9M",
             "8M"
          ],
-         "psybeam":[
+         "psybeam": [
             "9M",
             "9L15",
             "8L15"
          ],
-         "psychic":[
+         "psychic": [
             "9M",
             "9L35",
             "9S0",
             "8M",
             "8L35"
          ],
-         "psychicterrain":[
+         "psychicterrain": [
             "9M",
             "9L50",
             "8M",
             "8L50"
          ],
-         "psychoshift":[
+         "psychoshift": [
             "8E"
          ],
-         "psychup":[
+         "psychup": [
             "9E",
             "8E"
          ],
-         "psyshock":[
+         "psyshock": [
             "9M",
             "8M"
          ],
-         "reflect":[
+         "reflect": [
             "9M",
             "8M"
          ],
-         "rest":[
+         "rest": [
             "9M",
             "8M"
          ],
-         "round":[
+         "round": [
             "8M"
          ],
-         "safeguard":[
+         "safeguard": [
             "8M"
          ],
-         "shadowball":[
+         "shadowball": [
             "9M",
             "9S0",
             "8M"
          ],
-         "skillswap":[
+         "skillswap": [
             "9M"
          ],
-         "sleeptalk":[
+         "sleeptalk": [
             "9M",
             "8M"
          ],
-         "snore":[
+         "snore": [
             "8M"
          ],
-         "storedpower":[
+         "storedpower": [
             "9M",
             "9L1",
             "8M",
             "8L1"
          ],
-         "substitute":[
+         "substitute": [
             "9M",
             "8M"
          ],
-         "swift":[
+         "swift": [
             "9M",
             "8M"
          ],
-         "takedown":[
+         "takedown": [
             "9M"
          ],
-         "terablast":[
+         "terablast": [
             "9M"
          ],
-         "terrainpulse":[
+         "terrainpulse": [
             "8T"
          ],
-         "trick":[
+         "trick": [
             "9M",
             "8M"
          ],
-         "trickroom":[
+         "trickroom": [
             "9S0"
          ],
-         "zenheadbutt":[
+         "zenheadbutt": [
             "9M",
             "8M"
          ]
       },
-      "eventData":[
+      "eventData": [
          {
-            "generation":9,
-            "level":75,
-            "shiny":1,
-            "perfectIVs":4,
-            "moves":[
+            "generation": 9,
+            "level": 75,
+            "shiny": 1,
+            "perfectIVs": 4,
+            "moves": [
                "psychic",
                "hypervoice",
                "shadowball",
@@ -3686,150 +3699,150 @@
          }
       ]
    },
-   "oinkolognef":{
-      "learnset":{
-         "belch":[
+   "oinkolognef": {
+      "learnset": {
+         "belch": [
             "9L51"
          ],
-         "bodypress":[
+         "bodypress": [
             "9M"
          ],
-         "bodyslam":[
+         "bodyslam": [
             "9M"
          ],
-         "bulldoze":[
+         "bulldoze": [
             "9M"
          ],
-         "bulletseed":[
+         "bulletseed": [
             "9M"
          ],
-         "chillingwater":[
+         "chillingwater": [
             "9M"
          ],
-         "covet":[
+         "covet": [
             "9L12"
          ],
-         "dig":[
+         "dig": [
             "9M",
             "9L15"
          ],
-         "disarmingvoice":[
+         "disarmingvoice": [
             "9M",
             "9L3"
          ],
-         "doubleedge":[
+         "doubleedge": [
             "9L39"
          ],
-         "earthpower":[
+         "earthpower": [
             "9M",
             "9L45"
          ],
-         "echoedvoice":[
+         "echoedvoice": [
             "9L6"
          ],
-         "endure":[
+         "endure": [
             "9M"
          ],
-         "energyball":[
+         "energyball": [
             "9M"
          ],
-         "facade":[
+         "facade": [
             "9M"
          ],
-         "gigaimpact":[
+         "gigaimpact": [
             "9M"
          ],
-         "headbutt":[
+         "headbutt": [
             "9L17"
          ],
-         "helpinghand":[
+         "helpinghand": [
             "9M"
          ],
-         "hyperbeam":[
+         "hyperbeam": [
             "9M"
          ],
-         "hypervoice":[
+         "hypervoice": [
             "9M"
          ],
-         "ironhead":[
+         "ironhead": [
             "9M"
          ],
-         "mudshot":[
+         "mudshot": [
             "9M",
             "9L9"
          ],
-         "mudslap":[
+         "mudslap": [
             "9M"
          ],
-         "playrough":[
+         "playrough": [
             "9M"
          ],
-         "protect":[
+         "protect": [
             "9M"
          ],
-         "raindance":[
+         "raindance": [
             "9M"
          ],
-         "rest":[
+         "rest": [
             "9M"
          ],
-         "seedbomb":[
+         "seedbomb": [
             "9M"
          ],
-         "sleeptalk":[
+         "sleeptalk": [
             "9M"
          ],
-         "stompingtantrum":[
+         "stompingtantrum": [
             "9M"
          ],
-         "substitute":[
+         "substitute": [
             "9M"
          ],
-         "sunnyday":[
+         "sunnyday": [
             "9M"
          ],
-         "tackle":[
+         "tackle": [
             "9L1"
          ],
-         "tailwhip":[
+         "tailwhip": [
             "9L1"
          ],
-         "takedown":[
+         "takedown": [
             "9M",
             "9L28"
          ],
-         "terablast":[
+         "terablast": [
             "9M"
          ],
-         "thief":[
+         "thief": [
             "9M"
          ],
-         "trailblaze":[
+         "trailblaze": [
             "9M"
          ],
-         "uproar":[
+         "uproar": [
             "9L34"
          ],
-         "workup":[
+         "workup": [
             "9L30"
          ],
-         "yawn":[
+         "yawn": [
             "9L23"
          ],
-         "zenheadbutt":[
+         "zenheadbutt": [
             "9M"
          ]
       }
    },
-   "kyuremblack":{
-      "learnset":{
-         "ancientpower":[
+   "kyuremblack": {
+      "learnset": {
+         "ancientpower": [
             "8L1",
             "7L15",
             "6L15",
             "5L15"
          ],
-         "blizzard":[
+         "blizzard": [
             "8M",
             "8L56",
             "7M",
@@ -3839,53 +3852,53 @@
             "5M",
             "5L78"
          ],
-         "bodypress":[
+         "bodypress": [
             "8M"
          ],
-         "breakingswipe":[
+         "breakingswipe": [
             "8M"
          ],
-         "brutalswing":[
+         "brutalswing": [
             "8M",
             "7M"
          ],
-         "confide":[
+         "confide": [
             "7M",
             "6M"
          ],
-         "cut":[
+         "cut": [
             "6M",
             "5M"
          ],
-         "doubleteam":[
+         "doubleteam": [
             "7M",
             "6M",
             "5M"
          ],
-         "dracometeor":[
+         "dracometeor": [
             "8T",
             "7T",
             "6T",
             "6S3",
             "5T"
          ],
-         "dragonbreath":[
+         "dragonbreath": [
             "8L1",
             "7L29",
             "6L29",
             "6S2",
             "5L29"
          ],
-         "dragonclaw":[
+         "dragonclaw": [
             "8M",
             "7M",
             "6M",
             "5M"
          ],
-         "dragondance":[
+         "dragondance": [
             "8M"
          ],
-         "dragonpulse":[
+         "dragonpulse": [
             "8M",
             "8L24",
             "7T",
@@ -3898,31 +3911,31 @@
             "5S0",
             "5S1"
          ],
-         "dragonrage":[
+         "dragonrage": [
             "7L1",
             "6L1",
             "5L1"
          ],
-         "dragontail":[
+         "dragontail": [
             "7M",
             "6M",
             "5M"
          ],
-         "dualwingbeat":[
+         "dualwingbeat": [
             "8T"
          ],
-         "earthpower":[
+         "earthpower": [
             "8M",
             "7T",
             "6T",
             "5T"
          ],
-         "echoedvoice":[
+         "echoedvoice": [
             "7M",
             "6M",
             "5M"
          ],
-         "endeavor":[
+         "endeavor": [
             "8L16",
             "7T",
             "7L71",
@@ -3932,43 +3945,43 @@
             "5L71",
             "5S0"
          ],
-         "endure":[
+         "endure": [
             "8M"
          ],
-         "facade":[
+         "facade": [
             "8M",
             "7M",
             "6M",
             "5M"
          ],
-         "flashcannon":[
+         "flashcannon": [
             "8M",
             "7M",
             "6M",
             "5M"
          ],
-         "fling":[
+         "fling": [
             "8M",
             "7M",
             "6M",
             "5M"
          ],
-         "fly":[
+         "fly": [
             "8M",
             "7M",
             "6M",
             "5M"
          ],
-         "focusblast":[
+         "focusblast": [
             "8M",
             "7M",
             "6M",
             "5M"
          ],
-         "freezedry":[
+         "freezedry": [
             "8L1"
          ],
-         "freezeshock":[
+         "freezeshock": [
             "8L80",
             "7L50",
             "7S4",
@@ -3979,12 +3992,12 @@
             "5S0",
             "5S1"
          ],
-         "frustration":[
+         "frustration": [
             "7M",
             "6M",
             "5M"
          ],
-         "fusionbolt":[
+         "fusionbolt": [
             "8L48",
             "8S5",
             "7L43",
@@ -3995,37 +4008,37 @@
             "5L50",
             "5S1"
          ],
-         "gigaimpact":[
+         "gigaimpact": [
             "8M",
             "7M",
             "6M",
             "5M"
          ],
-         "hail":[
+         "hail": [
             "8M",
             "7M",
             "6M",
             "5M"
          ],
-         "helpinghand":[
+         "helpinghand": [
             "8M"
          ],
-         "hiddenpower":[
+         "hiddenpower": [
             "7M",
             "6M",
             "5M"
          ],
-         "honeclaws":[
+         "honeclaws": [
             "6M",
             "5M"
          ],
-         "hyperbeam":[
+         "hyperbeam": [
             "8M",
             "7M",
             "6M",
             "5M"
          ],
-         "hypervoice":[
+         "hypervoice": [
             "8M",
             "8L40",
             "8S5",
@@ -4036,7 +4049,7 @@
             "5T",
             "5L92"
          ],
-         "icebeam":[
+         "icebeam": [
             "8M",
             "8L32",
             "8S5",
@@ -4047,10 +4060,10 @@
             "5M",
             "5L22"
          ],
-         "iciclespear":[
+         "iciclespear": [
             "8M"
          ],
-         "icywind":[
+         "icywind": [
             "8M",
             "7T",
             "7L1",
@@ -4059,7 +4072,7 @@
             "5T",
             "5L1"
          ],
-         "imprison":[
+         "imprison": [
             "8M",
             "8L64",
             "7L64",
@@ -4068,27 +4081,27 @@
             "5S0",
             "5S1"
          ],
-         "ironhead":[
+         "ironhead": [
             "8M",
             "7T",
             "6T",
             "6S3",
             "5T"
          ],
-         "laserfocus":[
+         "laserfocus": [
             "7T"
          ],
-         "lightscreen":[
+         "lightscreen": [
             "8M",
             "7M",
             "6M",
             "5M"
          ],
-         "nobleroar":[
+         "nobleroar": [
             "8L1",
             "7L64"
          ],
-         "outrage":[
+         "outrage": [
             "8M",
             "8L72",
             "7T",
@@ -4098,111 +4111,111 @@
             "5T",
             "5L85"
          ],
-         "payback":[
+         "payback": [
             "8M",
             "7M",
             "6M",
             "5M"
          ],
-         "protect":[
+         "protect": [
             "8M",
             "7M",
             "6M",
             "5M"
          ],
-         "psychic":[
+         "psychic": [
             "8M",
             "7M",
             "6M",
             "5M"
          ],
-         "raindance":[
+         "raindance": [
             "8M",
             "7M",
             "6M",
             "5M"
          ],
-         "reflect":[
+         "reflect": [
             "8M",
             "7M",
             "6M",
             "5M"
          ],
-         "rest":[
+         "rest": [
             "8M",
             "7M",
             "6M",
             "5M"
          ],
-         "return":[
+         "return": [
             "7M",
             "6M",
             "5M"
          ],
-         "rockslide":[
+         "rockslide": [
             "8M",
             "7M",
             "6M",
             "5M"
          ],
-         "rocksmash":[
+         "rocksmash": [
             "6M",
             "5M"
          ],
-         "rocktomb":[
+         "rocktomb": [
             "8M",
             "7M",
             "6M",
             "5M"
          ],
-         "roost":[
+         "roost": [
             "7M",
             "6M",
             "5T"
          ],
-         "round":[
+         "round": [
             "8M",
             "7M",
             "6M",
             "5M"
          ],
-         "safeguard":[
+         "safeguard": [
             "8M",
             "7M",
             "6M",
             "5M"
          ],
-         "scaleshot":[
+         "scaleshot": [
             "8T"
          ],
-         "scaryface":[
+         "scaryface": [
             "8M"
          ],
-         "secretpower":[
+         "secretpower": [
             "6M"
          ],
-         "shadowball":[
+         "shadowball": [
             "8M",
             "8S5",
             "7M",
             "6M",
             "5M"
          ],
-         "shadowclaw":[
+         "shadowclaw": [
             "8M",
             "7M",
             "6M",
             "5M"
          ],
-         "sheercold":[
+         "sheercold": [
             "8L88"
          ],
-         "signalbeam":[
+         "signalbeam": [
             "7T",
             "6T",
             "5T"
          ],
-         "slash":[
+         "slash": [
             "8L8",
             "7L36",
             "7S4",
@@ -4210,74 +4223,74 @@
             "6S2",
             "5L36"
          ],
-         "sleeptalk":[
+         "sleeptalk": [
             "8M",
             "7M",
             "6M",
             "5T"
          ],
-         "snore":[
+         "snore": [
             "8M",
             "7T",
             "6T",
             "5T"
          ],
-         "steelwing":[
+         "steelwing": [
             "8M",
             "7M",
             "6M"
          ],
-         "stoneedge":[
+         "stoneedge": [
             "8M",
             "7M",
             "6M",
             "5M"
          ],
-         "strength":[
+         "strength": [
             "6M",
             "5M"
          ],
-         "substitute":[
+         "substitute": [
             "8M",
             "7M",
             "6M",
             "5M"
          ],
-         "sunnyday":[
+         "sunnyday": [
             "8M",
             "7M",
             "6M",
             "5M"
          ],
-         "swagger":[
+         "swagger": [
             "7M",
             "6M",
             "5M"
          ],
-         "swift":[
+         "swift": [
             "8M"
          ],
-         "toxic":[
+         "toxic": [
             "7M",
             "6M",
             "5M"
          ],
-         "weatherball":[
+         "weatherball": [
             "8M"
          ],
-         "zenheadbutt":[
+         "zenheadbutt": [
             "8M",
             "7T",
             "6T",
             "5T"
          ]
       },
-      "eventData":[
+      "eventData": [
          {
-            "generation":5,
-            "level":75,
-            "shiny":1,
-            "moves":[
+            "generation": 5,
+            "level": 75,
+            "shiny": 1,
+            "moves": [
                "freezeshock",
                "dragonpulse",
                "imprison",
@@ -4285,10 +4298,10 @@
             ]
          },
          {
-            "generation":5,
-            "level":70,
-            "shiny":1,
-            "moves":[
+            "generation": 5,
+            "level": 70,
+            "shiny": 1,
+            "moves": [
                "fusionbolt",
                "freezeshock",
                "dragonpulse",
@@ -4296,10 +4309,10 @@
             ]
          },
          {
-            "generation":6,
-            "level":50,
-            "shiny":1,
-            "moves":[
+            "generation": 6,
+            "level": 50,
+            "shiny": 1,
+            "moves": [
                "dragonbreath",
                "slash",
                "fusionbolt",
@@ -4307,21 +4320,21 @@
             ]
          },
          {
-            "generation":6,
-            "level":100,
-            "moves":[
+            "generation": 6,
+            "level": 100,
+            "moves": [
                "freezeshock",
                "fusionbolt",
                "dracometeor",
                "ironhead"
             ],
-            "pokeball":"cherishball"
+            "pokeball": "cherishball"
          },
          {
-            "generation":7,
-            "level":60,
-            "shiny":1,
-            "moves":[
+            "generation": 7,
+            "level": 60,
+            "shiny": 1,
+            "moves": [
                "slash",
                "fusionbolt",
                "freezeshock",
@@ -4329,10 +4342,10 @@
             ]
          },
          {
-            "generation":8,
-            "level":70,
-            "shiny":1,
-            "moves":[
+            "generation": 8,
+            "level": 70,
+            "shiny": 1,
+            "moves": [
                "icebeam",
                "hypervoice",
                "shadowball",
@@ -4340,17 +4353,17 @@
             ]
          }
       ],
-      "eventOnly":true
+      "eventOnly": true
    },
-   "kyuremwhite":{
-      "learnset":{
-         "ancientpower":[
+   "kyuremwhite": {
+      "learnset": {
+         "ancientpower": [
             "8L1",
             "7L15",
             "6L15",
             "5L15"
          ],
-         "blizzard":[
+         "blizzard": [
             "8M",
             "8L56",
             "7M",
@@ -4360,53 +4373,53 @@
             "5M",
             "5L78"
          ],
-         "bodypress":[
+         "bodypress": [
             "8M"
          ],
-         "breakingswipe":[
+         "breakingswipe": [
             "8M"
          ],
-         "brutalswing":[
+         "brutalswing": [
             "8M",
             "7M"
          ],
-         "confide":[
+         "confide": [
             "7M",
             "6M"
          ],
-         "cut":[
+         "cut": [
             "6M",
             "5M"
          ],
-         "doubleteam":[
+         "doubleteam": [
             "7M",
             "6M",
             "5M"
          ],
-         "dracometeor":[
+         "dracometeor": [
             "8T",
             "7T",
             "6T",
             "6S3",
             "5T"
          ],
-         "dragonbreath":[
+         "dragonbreath": [
             "8L1",
             "7L29",
             "6L29",
             "6S2",
             "5L29"
          ],
-         "dragonclaw":[
+         "dragonclaw": [
             "8M",
             "7M",
             "6M",
             "5M"
          ],
-         "dragondance":[
+         "dragondance": [
             "8M"
          ],
-         "dragonpulse":[
+         "dragonpulse": [
             "8M",
             "8L24",
             "7T",
@@ -4419,31 +4432,31 @@
             "5S0",
             "5S1"
          ],
-         "dragonrage":[
+         "dragonrage": [
             "7L1",
             "6L1",
             "5L1"
          ],
-         "dragontail":[
+         "dragontail": [
             "7M",
             "6M",
             "5M"
          ],
-         "dualwingbeat":[
+         "dualwingbeat": [
             "8T"
          ],
-         "earthpower":[
+         "earthpower": [
             "8M",
             "7T",
             "6T",
             "5T"
          ],
-         "echoedvoice":[
+         "echoedvoice": [
             "7M",
             "6M",
             "5M"
          ],
-         "endeavor":[
+         "endeavor": [
             "8L16",
             "7T",
             "7L71",
@@ -4453,48 +4466,48 @@
             "5L71",
             "5S0"
          ],
-         "endure":[
+         "endure": [
             "8M"
          ],
-         "facade":[
+         "facade": [
             "8M",
             "7M",
             "6M",
             "5M"
          ],
-         "flashcannon":[
+         "flashcannon": [
             "8M",
             "7M",
             "6M",
             "5M"
          ],
-         "fling":[
+         "fling": [
             "8M",
             "7M",
             "6M",
             "5M"
          ],
-         "fly":[
+         "fly": [
             "8M",
             "7M",
             "6M",
             "5M"
          ],
-         "focusblast":[
+         "focusblast": [
             "8M",
             "7M",
             "6M",
             "5M"
          ],
-         "freezedry":[
+         "freezedry": [
             "8L1"
          ],
-         "frustration":[
+         "frustration": [
             "7M",
             "6M",
             "5M"
          ],
-         "fusionflare":[
+         "fusionflare": [
             "8L48",
             "8S5",
             "7L43",
@@ -4505,37 +4518,37 @@
             "5L50",
             "5S1"
          ],
-         "gigaimpact":[
+         "gigaimpact": [
             "8M",
             "7M",
             "6M",
             "5M"
          ],
-         "hail":[
+         "hail": [
             "8M",
             "7M",
             "6M",
             "5M"
          ],
-         "helpinghand":[
+         "helpinghand": [
             "8M"
          ],
-         "hiddenpower":[
+         "hiddenpower": [
             "7M",
             "6M",
             "5M"
          ],
-         "honeclaws":[
+         "honeclaws": [
             "6M",
             "5M"
          ],
-         "hyperbeam":[
+         "hyperbeam": [
             "8M",
             "7M",
             "6M",
             "5M"
          ],
-         "hypervoice":[
+         "hypervoice": [
             "8M",
             "8L40",
             "8S5",
@@ -4546,7 +4559,7 @@
             "5T",
             "5L92"
          ],
-         "icebeam":[
+         "icebeam": [
             "8M",
             "8L32",
             "8S5",
@@ -4557,7 +4570,7 @@
             "5M",
             "5L22"
          ],
-         "iceburn":[
+         "iceburn": [
             "8L80",
             "7L50",
             "7S4",
@@ -4568,10 +4581,10 @@
             "5S0",
             "5S1"
          ],
-         "iciclespear":[
+         "iciclespear": [
             "8M"
          ],
-         "icywind":[
+         "icywind": [
             "8M",
             "7T",
             "7L1",
@@ -4580,7 +4593,7 @@
             "5T",
             "5L1"
          ],
-         "imprison":[
+         "imprison": [
             "8M",
             "8L64",
             "7L64",
@@ -4589,27 +4602,27 @@
             "5S0",
             "5S1"
          ],
-         "ironhead":[
+         "ironhead": [
             "8M",
             "7T",
             "6T",
             "6S3",
             "5T"
          ],
-         "laserfocus":[
+         "laserfocus": [
             "7T"
          ],
-         "lightscreen":[
+         "lightscreen": [
             "8M",
             "7M",
             "6M",
             "5M"
          ],
-         "nobleroar":[
+         "nobleroar": [
             "8L1",
             "7L64"
          ],
-         "outrage":[
+         "outrage": [
             "8M",
             "8L72",
             "7T",
@@ -4619,111 +4632,111 @@
             "5T",
             "5L85"
          ],
-         "payback":[
+         "payback": [
             "8M",
             "7M",
             "6M",
             "5M"
          ],
-         "protect":[
+         "protect": [
             "8M",
             "7M",
             "6M",
             "5M"
          ],
-         "psychic":[
+         "psychic": [
             "8M",
             "7M",
             "6M",
             "5M"
          ],
-         "raindance":[
+         "raindance": [
             "8M",
             "7M",
             "6M",
             "5M"
          ],
-         "reflect":[
+         "reflect": [
             "8M",
             "7M",
             "6M",
             "5M"
          ],
-         "rest":[
+         "rest": [
             "8M",
             "7M",
             "6M",
             "5M"
          ],
-         "return":[
+         "return": [
             "7M",
             "6M",
             "5M"
          ],
-         "rockslide":[
+         "rockslide": [
             "8M",
             "7M",
             "6M",
             "5M"
          ],
-         "rocksmash":[
+         "rocksmash": [
             "6M",
             "5M"
          ],
-         "rocktomb":[
+         "rocktomb": [
             "8M",
             "7M",
             "6M",
             "5M"
          ],
-         "roost":[
+         "roost": [
             "7M",
             "6M",
             "5T"
          ],
-         "round":[
+         "round": [
             "8M",
             "7M",
             "6M",
             "5M"
          ],
-         "safeguard":[
+         "safeguard": [
             "8M",
             "7M",
             "6M",
             "5M"
          ],
-         "scaleshot":[
+         "scaleshot": [
             "8T"
          ],
-         "scaryface":[
+         "scaryface": [
             "8M"
          ],
-         "secretpower":[
+         "secretpower": [
             "6M"
          ],
-         "shadowball":[
+         "shadowball": [
             "8M",
             "8S5",
             "7M",
             "6M",
             "5M"
          ],
-         "shadowclaw":[
+         "shadowclaw": [
             "8M",
             "7M",
             "6M",
             "5M"
          ],
-         "sheercold":[
+         "sheercold": [
             "8L88"
          ],
-         "signalbeam":[
+         "signalbeam": [
             "7T",
             "6T",
             "5T"
          ],
-         "slash":[
+         "slash": [
             "8L8",
             "7L36",
             "7S4",
@@ -4731,74 +4744,74 @@
             "6S2",
             "5L36"
          ],
-         "sleeptalk":[
+         "sleeptalk": [
             "8M",
             "7M",
             "6M",
             "5T"
          ],
-         "snore":[
+         "snore": [
             "8M",
             "7T",
             "6T",
             "5T"
          ],
-         "steelwing":[
+         "steelwing": [
             "8M",
             "7M",
             "6M"
          ],
-         "stoneedge":[
+         "stoneedge": [
             "8M",
             "7M",
             "6M",
             "5M"
          ],
-         "strength":[
+         "strength": [
             "6M",
             "5M"
          ],
-         "substitute":[
+         "substitute": [
             "8M",
             "7M",
             "6M",
             "5M"
          ],
-         "sunnyday":[
+         "sunnyday": [
             "8M",
             "7M",
             "6M",
             "5M"
          ],
-         "swagger":[
+         "swagger": [
             "7M",
             "6M",
             "5M"
          ],
-         "swift":[
+         "swift": [
             "8M"
          ],
-         "toxic":[
+         "toxic": [
             "7M",
             "6M",
             "5M"
          ],
-         "weatherball":[
+         "weatherball": [
             "8M"
          ],
-         "zenheadbutt":[
+         "zenheadbutt": [
             "8M",
             "7T",
             "6T",
             "5T"
          ]
       },
-      "eventData":[
+      "eventData": [
          {
-            "generation":5,
-            "level":75,
-            "shiny":1,
-            "moves":[
+            "generation": 5,
+            "level": 75,
+            "shiny": 1,
+            "moves": [
                "iceburn",
                "dragonpulse",
                "imprison",
@@ -4806,10 +4819,10 @@
             ]
          },
          {
-            "generation":5,
-            "level":70,
-            "shiny":1,
-            "moves":[
+            "generation": 5,
+            "level": 70,
+            "shiny": 1,
+            "moves": [
                "fusionflare",
                "iceburn",
                "dragonpulse",
@@ -4817,10 +4830,10 @@
             ]
          },
          {
-            "generation":6,
-            "level":50,
-            "shiny":1,
-            "moves":[
+            "generation": 6,
+            "level": 50,
+            "shiny": 1,
+            "moves": [
                "dragonbreath",
                "slash",
                "fusionflare",
@@ -4828,21 +4841,21 @@
             ]
          },
          {
-            "generation":6,
-            "level":100,
-            "moves":[
+            "generation": 6,
+            "level": 100,
+            "moves": [
                "iceburn",
                "fusionflare",
                "dracometeor",
                "ironhead"
             ],
-            "pokeball":"cherishball"
+            "pokeball": "cherishball"
          },
          {
-            "generation":7,
-            "level":60,
-            "shiny":1,
-            "moves":[
+            "generation": 7,
+            "level": 60,
+            "shiny": 1,
+            "moves": [
                "slash",
                "fusionflare",
                "iceburn",
@@ -4850,10 +4863,10 @@
             ]
          },
          {
-            "generation":8,
-            "level":70,
-            "shiny":1,
-            "moves":[
+            "generation": 8,
+            "level": 70,
+            "shiny": 1,
+            "moves": [
                "icebeam",
                "hypervoice",
                "shadowball",
@@ -4861,166 +4874,166 @@
             ]
          }
       ],
-      "eventOnly":true
+      "eventOnly": true
    },
-   "pichuspikyeared":{
-      "learnset":{
-         "attract":[
+   "pichuspikyeared": {
+      "learnset": {
+         "attract": [
             "4M"
          ],
-         "captivate":[
+         "captivate": [
             "4M"
          ],
-         "chargebeam":[
+         "chargebeam": [
             "4M"
          ],
-         "charm":[
+         "charm": [
             "4L1"
          ],
-         "doubleteam":[
+         "doubleteam": [
             "4M"
          ],
-         "endure":[
+         "endure": [
             "4M"
          ],
-         "facade":[
+         "facade": [
             "4M"
          ],
-         "flash":[
+         "flash": [
             "4M"
          ],
-         "fling":[
+         "fling": [
             "4M"
          ],
-         "frustration":[
+         "frustration": [
             "4M"
          ],
-         "grassknot":[
+         "grassknot": [
             "4M"
          ],
-         "headbutt":[
+         "headbutt": [
             "4T"
          ],
-         "helpinghand":[
+         "helpinghand": [
             "4T",
             "4S0"
          ],
-         "hiddenpower":[
+         "hiddenpower": [
             "4M"
          ],
-         "irontail":[
+         "irontail": [
             "4M"
          ],
-         "lightscreen":[
+         "lightscreen": [
             "4M"
          ],
-         "magnetrise":[
+         "magnetrise": [
             "4T"
          ],
-         "mudslap":[
+         "mudslap": [
             "4T"
          ],
-         "nastyplot":[
+         "nastyplot": [
             "4L18"
          ],
-         "naturalgift":[
+         "naturalgift": [
             "4M"
          ],
-         "painsplit":[
+         "painsplit": [
             "4S0"
          ],
-         "protect":[
+         "protect": [
             "4M"
          ],
-         "raindance":[
+         "raindance": [
             "4M"
          ],
-         "rest":[
+         "rest": [
             "4M"
          ],
-         "return":[
+         "return": [
             "4M"
          ],
-         "rollout":[
+         "rollout": [
             "4T"
          ],
-         "secretpower":[
+         "secretpower": [
             "4M"
          ],
-         "shockwave":[
+         "shockwave": [
             "4M"
          ],
-         "signalbeam":[
+         "signalbeam": [
             "4T"
          ],
-         "sleeptalk":[
+         "sleeptalk": [
             "4M"
          ],
-         "snore":[
+         "snore": [
             "4T"
          ],
-         "substitute":[
+         "substitute": [
             "4M"
          ],
-         "swagger":[
+         "swagger": [
             "4M",
             "4S0"
          ],
-         "sweetkiss":[
+         "sweetkiss": [
             "4L13"
          ],
-         "swift":[
+         "swift": [
             "4T"
          ],
-         "tailwhip":[
+         "tailwhip": [
             "4L5"
          ],
-         "thunder":[
+         "thunder": [
             "4M"
          ],
-         "thunderbolt":[
+         "thunderbolt": [
             "4M"
          ],
-         "thundershock":[
+         "thundershock": [
             "4L1"
          ],
-         "thunderwave":[
+         "thunderwave": [
             "4M",
             "4L10"
          ],
-         "toxic":[
+         "toxic": [
             "4M"
          ],
-         "uproar":[
+         "uproar": [
             "4T"
          ],
-         "volttackle":[
+         "volttackle": [
             "4S0"
          ]
       },
-      "eventData":[
+      "eventData": [
          {
-            "generation":4,
-            "level":30,
-            "gender":"F",
-            "nature":"Naughty",
-            "moves":[
+            "generation": 4,
+            "level": 30,
+            "gender": "F",
+            "nature": "Naughty",
+            "moves": [
                "helpinghand",
                "volttackle",
                "swagger",
                "painsplit"
             ],
-            "pokeball":"pokeball"
+            "pokeball": "pokeball"
          }
       ],
-      "eventOnly":true
+      "eventOnly": true
    },
-   "wormadamsandy":{
-      "learnset":{
-         "allyswitch":[
+   "wormadamsandy": {
+      "learnset": {
+         "allyswitch": [
             "7T"
          ],
-         "attract":[
+         "attract": [
             "7M",
             "7L41",
             "6M",
@@ -5030,7 +5043,7 @@
             "4M",
             "4L41"
          ],
-         "bugbite":[
+         "bugbite": [
             "7T",
             "7L1",
             "6T",
@@ -5040,116 +5053,116 @@
             "4T",
             "4L15"
          ],
-         "bugbuzz":[
+         "bugbuzz": [
             "7L50"
          ],
-         "bulldoze":[
+         "bulldoze": [
             "7M",
             "6M",
             "5M"
          ],
-         "captivate":[
+         "captivate": [
             "7L35",
             "6L35",
             "5L35",
             "4M",
             "4L35"
          ],
-         "confide":[
+         "confide": [
             "7M",
             "6M"
          ],
-         "confusion":[
+         "confusion": [
             "7L23",
             "6L23",
             "5L23",
             "4L23"
          ],
-         "dig":[
+         "dig": [
             "6M",
             "5M",
             "4M"
          ],
-         "doubleteam":[
+         "doubleteam": [
             "7M",
             "6M",
             "5M",
             "4M"
          ],
-         "dreameater":[
+         "dreameater": [
             "7M",
             "6M",
             "5M",
             "4M"
          ],
-         "earthpower":[
+         "earthpower": [
             "7T",
             "6T",
             "5T",
             "4T"
          ],
-         "earthquake":[
+         "earthquake": [
             "7M",
             "6M",
             "5M",
             "4M"
          ],
-         "electroweb":[
+         "electroweb": [
             "7T",
             "6T",
             "5T"
          ],
-         "endeavor":[
+         "endeavor": [
             "7T",
             "6T",
             "5T",
             "4T"
          ],
-         "endure":[
+         "endure": [
             "4M"
          ],
-         "facade":[
+         "facade": [
             "7M",
             "6M",
             "5M",
             "4M"
          ],
-         "fissure":[
+         "fissure": [
             "7L47",
             "6L47",
             "5L47",
             "4L47"
          ],
-         "flail":[
+         "flail": [
             "7L38",
             "6L38",
             "5L38",
             "4L38"
          ],
-         "flash":[
+         "flash": [
             "6M",
             "5M",
             "4M"
          ],
-         "frustration":[
+         "frustration": [
             "7M",
             "6M",
             "5M",
             "4M"
          ],
-         "gigaimpact":[
+         "gigaimpact": [
             "7M",
             "6M",
             "5M",
             "4M"
          ],
-         "harden":[
+         "harden": [
             "7L29",
             "6L29",
             "5L29",
             "4L29"
          ],
-         "hiddenpower":[
+         "hiddenpower": [
             "7M",
             "7L20",
             "6M",
@@ -5159,23 +5172,23 @@
             "4M",
             "4L20"
          ],
-         "hyperbeam":[
+         "hyperbeam": [
             "7M",
             "6M",
             "5M",
             "4M"
          ],
-         "infestation":[
+         "infestation": [
             "7M",
             "6M"
          ],
-         "mudslap":[
+         "mudslap": [
             "4T"
          ],
-         "naturalgift":[
+         "naturalgift": [
             "4M"
          ],
-         "protect":[
+         "protect": [
             "7M",
             "7L1",
             "6M",
@@ -5185,13 +5198,13 @@
             "4M",
             "4L10"
          ],
-         "psybeam":[
+         "psybeam": [
             "7L32",
             "6L32",
             "5L32",
             "4L32"
          ],
-         "psychic":[
+         "psychic": [
             "7M",
             "7L44",
             "6M",
@@ -5201,173 +5214,173 @@
             "4M",
             "4L44"
          ],
-         "psychup":[
+         "psychup": [
             "7M",
             "6M",
             "5M",
             "4M"
          ],
-         "quiverdance":[
+         "quiverdance": [
             "7L1"
          ],
-         "raindance":[
+         "raindance": [
             "7M",
             "6M",
             "5M",
             "4M"
          ],
-         "rest":[
+         "rest": [
             "7M",
             "6M",
             "5M",
             "4M"
          ],
-         "return":[
+         "return": [
             "7M",
             "6M",
             "5M",
             "4M"
          ],
-         "rockblast":[
+         "rockblast": [
             "7L26",
             "6L26",
             "5L26",
             "4L26"
          ],
-         "rocktomb":[
+         "rocktomb": [
             "7M",
             "6M",
             "5M",
             "4M"
          ],
-         "rollout":[
+         "rollout": [
             "4T"
          ],
-         "round":[
+         "round": [
             "7M",
             "6M",
             "5M"
          ],
-         "safeguard":[
+         "safeguard": [
             "7M",
             "6M",
             "5M",
             "4M"
          ],
-         "sandstorm":[
+         "sandstorm": [
             "7M",
             "6M",
             "5M",
             "4M"
          ],
-         "secretpower":[
+         "secretpower": [
             "6M",
             "4M"
          ],
-         "shadowball":[
+         "shadowball": [
             "7M",
             "6M",
             "5M",
             "4M"
          ],
-         "signalbeam":[
+         "signalbeam": [
             "7T",
             "6T",
             "5T",
             "4T"
          ],
-         "skillswap":[
+         "skillswap": [
             "7T",
             "6T",
             "5T",
             "4M"
          ],
-         "sleeptalk":[
+         "sleeptalk": [
             "7M",
             "6M",
             "5T",
             "4M"
          ],
-         "snore":[
+         "snore": [
             "7T",
             "6T",
             "5T",
             "4T"
          ],
-         "stealthrock":[
+         "stealthrock": [
             "7T",
             "6T",
             "5T"
          ],
-         "stringshot":[
+         "stringshot": [
             "4T"
          ],
-         "strugglebug":[
+         "strugglebug": [
             "6M",
             "5M"
          ],
-         "substitute":[
+         "substitute": [
             "7M",
             "6M",
             "5M",
             "4M"
          ],
-         "suckerpunch":[
+         "suckerpunch": [
             "7L1",
             "4T"
          ],
-         "sunnyday":[
+         "sunnyday": [
             "7M",
             "6M",
             "5M",
             "4M"
          ],
-         "swagger":[
+         "swagger": [
             "7M",
             "6M",
             "5M",
             "4M"
          ],
-         "tackle":[
+         "tackle": [
             "7L1",
             "6L1",
             "5L1",
             "4L1"
          ],
-         "telekinesis":[
+         "telekinesis": [
             "7T"
          ],
-         "thief":[
+         "thief": [
             "7M",
             "6M",
             "5M",
             "4M"
          ],
-         "toxic":[
+         "toxic": [
             "7M",
             "6M",
             "5M",
             "4M"
          ],
-         "uproar":[
+         "uproar": [
             "7T",
             "6T",
             "5T",
             "4T"
          ],
-         "venoshock":[
+         "venoshock": [
             "7M",
             "6M",
             "5M"
          ]
       }
    },
-   "wormadamtrash":{
-      "learnset":{
-         "allyswitch":[
+   "wormadamtrash": {
+      "learnset": {
+         "allyswitch": [
             "7T"
          ],
-         "attract":[
+         "attract": [
             "7M",
             "7L41",
             "6M",
@@ -5377,7 +5390,7 @@
             "4M",
             "4L41"
          ],
-         "bugbite":[
+         "bugbite": [
             "7T",
             "7L1",
             "6T",
@@ -5387,100 +5400,100 @@
             "4T",
             "4L15"
          ],
-         "bugbuzz":[
+         "bugbuzz": [
             "7L50"
          ],
-         "captivate":[
+         "captivate": [
             "7L35",
             "6L35",
             "5L35",
             "4M",
             "4L35"
          ],
-         "confide":[
+         "confide": [
             "7M",
             "6M"
          ],
-         "confusion":[
+         "confusion": [
             "7L23",
             "6L23",
             "5L23",
             "4L23"
          ],
-         "doubleteam":[
+         "doubleteam": [
             "7M",
             "6M",
             "5M",
             "4M"
          ],
-         "dreameater":[
+         "dreameater": [
             "7M",
             "6M",
             "5M",
             "4M"
          ],
-         "electroweb":[
+         "electroweb": [
             "7T",
             "6T",
             "5T"
          ],
-         "endeavor":[
+         "endeavor": [
             "7T",
             "6T",
             "5T",
             "4T"
          ],
-         "endure":[
+         "endure": [
             "4M"
          ],
-         "facade":[
+         "facade": [
             "7M",
             "6M",
             "5M",
             "4M"
          ],
-         "flail":[
+         "flail": [
             "7L38",
             "6L38",
             "5L38",
             "4L38"
          ],
-         "flash":[
+         "flash": [
             "6M",
             "5M",
             "4M"
          ],
-         "flashcannon":[
+         "flashcannon": [
             "7M",
             "6M",
             "5M",
             "4M"
          ],
-         "frustration":[
+         "frustration": [
             "7M",
             "6M",
             "5M",
             "4M"
          ],
-         "gigaimpact":[
+         "gigaimpact": [
             "7M",
             "6M",
             "5M",
             "4M"
          ],
-         "gunkshot":[
+         "gunkshot": [
             "7T",
             "6T",
             "5T",
             "4T"
          ],
-         "gyroball":[
+         "gyroball": [
             "7M",
             "6M",
             "5M",
             "4M"
          ],
-         "hiddenpower":[
+         "hiddenpower": [
             "7M",
             "7L20",
             "6M",
@@ -5490,23 +5503,23 @@
             "4M",
             "4L20"
          ],
-         "hyperbeam":[
+         "hyperbeam": [
             "7M",
             "6M",
             "5M",
             "4M"
          ],
-         "infestation":[
+         "infestation": [
             "7M",
             "6M"
          ],
-         "irondefense":[
+         "irondefense": [
             "7T",
             "6T",
             "5T",
             "4T"
          ],
-         "ironhead":[
+         "ironhead": [
             "7T",
             "7L47",
             "6T",
@@ -5516,31 +5529,31 @@
             "4T",
             "4L47"
          ],
-         "magnetrise":[
+         "magnetrise": [
             "7T",
             "6T",
             "5T",
             "4T"
          ],
-         "metalburst":[
+         "metalburst": [
             "7L1"
          ],
-         "metalsound":[
+         "metalsound": [
             "7L29",
             "6L29",
             "5L29",
             "4L29"
          ],
-         "mirrorshot":[
+         "mirrorshot": [
             "7L26",
             "6L26",
             "5L26",
             "4L26"
          ],
-         "naturalgift":[
+         "naturalgift": [
             "4M"
          ],
-         "protect":[
+         "protect": [
             "7M",
             "7L1",
             "6M",
@@ -5550,13 +5563,13 @@
             "4M",
             "4L10"
          ],
-         "psybeam":[
+         "psybeam": [
             "7L32",
             "6L32",
             "5L32",
             "4L32"
          ],
-         "psychic":[
+         "psychic": [
             "7M",
             "7L44",
             "6M",
@@ -5566,593 +5579,593 @@
             "4M",
             "4L44"
          ],
-         "psychup":[
+         "psychup": [
             "7M",
             "6M",
             "5M",
             "4M"
          ],
-         "quiverdance":[
+         "quiverdance": [
             "7L1"
          ],
-         "raindance":[
+         "raindance": [
             "7M",
             "6M",
             "5M",
             "4M"
          ],
-         "rest":[
+         "rest": [
             "7M",
             "6M",
             "5M",
             "4M"
          ],
-         "return":[
+         "return": [
             "7M",
             "6M",
             "5M",
             "4M"
          ],
-         "round":[
+         "round": [
             "7M",
             "6M",
             "5M"
          ],
-         "safeguard":[
+         "safeguard": [
             "7M",
             "6M",
             "5M",
             "4M"
          ],
-         "secretpower":[
+         "secretpower": [
             "6M",
             "4M"
          ],
-         "shadowball":[
+         "shadowball": [
             "7M",
             "6M",
             "5M",
             "4M"
          ],
-         "signalbeam":[
+         "signalbeam": [
             "7T",
             "6T",
             "5T",
             "4T"
          ],
-         "skillswap":[
+         "skillswap": [
             "7T",
             "6T",
             "5T",
             "4M"
          ],
-         "sleeptalk":[
+         "sleeptalk": [
             "7M",
             "6M",
             "5T",
             "4M"
          ],
-         "snore":[
+         "snore": [
             "7T",
             "6T",
             "5T",
             "4T"
          ],
-         "stealthrock":[
+         "stealthrock": [
             "7T",
             "6T",
             "5T",
             "4M"
          ],
-         "stringshot":[
+         "stringshot": [
             "4T"
          ],
-         "strugglebug":[
+         "strugglebug": [
             "6M",
             "5M"
          ],
-         "substitute":[
+         "substitute": [
             "7M",
             "6M",
             "5M",
             "4M"
          ],
-         "suckerpunch":[
+         "suckerpunch": [
             "7L1",
             "4T"
          ],
-         "sunnyday":[
+         "sunnyday": [
             "7M",
             "6M",
             "5M",
             "4M"
          ],
-         "swagger":[
+         "swagger": [
             "7M",
             "6M",
             "5M",
             "4M"
          ],
-         "tackle":[
+         "tackle": [
             "7L1",
             "6L1",
             "5L1",
             "4L1"
          ],
-         "telekinesis":[
+         "telekinesis": [
             "7T"
          ],
-         "thief":[
+         "thief": [
             "7M",
             "6M",
             "5M",
             "4M"
          ],
-         "toxic":[
+         "toxic": [
             "7M",
             "6M",
             "5M",
             "4M"
          ],
-         "uproar":[
+         "uproar": [
             "7T",
             "6T",
             "5T",
             "4T"
          ],
-         "venoshock":[
+         "venoshock": [
             "7M",
             "6M",
             "5M"
          ]
       }
    },
-   "gastrodoneast":{
-      "learnset":{
-         "earthpower":[
+   "gastrodoneast": {
+      "learnset": {
+         "earthpower": [
             "8S1",
             "8S0"
          ],
-         "icebeam":[
+         "icebeam": [
             "8S1",
             "8S0"
          ],
-         "protect":[
+         "protect": [
             "8S1",
             "8S0"
          ],
-         "surf":[
+         "surf": [
             "8S0"
          ],
-         "yawn":[
+         "yawn": [
             "8S1"
          ]
       },
-      "eventData":[
+      "eventData": [
          {
-            "generation":8,
-            "level":50,
-            "gender":"F",
-            "nature":"Quiet",
-            "abilities":[
+            "generation": 8,
+            "level": 50,
+            "gender": "F",
+            "nature": "Quiet",
+            "abilities": [
                "stormdrain"
             ],
-            "ivs":{
-               "hp":31,
-               "atk":2,
-               "def":31,
-               "spa":31,
-               "spd":31,
-               "spe":0
+            "ivs": {
+               "hp": 31,
+               "atk": 2,
+               "def": 31,
+               "spa": 31,
+               "spd": 31,
+               "spe": 0
             },
-            "moves":[
+            "moves": [
                "protect",
                "surf",
                "icebeam",
                "earthpower"
             ],
-            "pokeball":"cherishball"
+            "pokeball": "cherishball"
          },
          {
-            "generation":8,
-            "level":50,
-            "gender":"F",
-            "nature":"Sassy",
-            "abilities":[
+            "generation": 8,
+            "level": 50,
+            "gender": "F",
+            "nature": "Sassy",
+            "abilities": [
                "stormdrain"
             ],
-            "ivs":{
-               "hp":31,
-               "atk":0,
-               "def":31,
-               "spa":31,
-               "spd":31,
-               "spe":0
+            "ivs": {
+               "hp": 31,
+               "atk": 0,
+               "def": 31,
+               "spa": 31,
+               "spd": 31,
+               "spe": 0
             },
-            "moves":[
+            "moves": [
                "protect",
                "yawn",
                "icebeam",
                "earthpower"
             ],
-            "pokeball":"cherishball"
+            "pokeball": "cherishball"
          }
       ],
-      "encounters":[
+      "encounters": [
          {
-            "generation":4,
-            "level":20
+            "generation": 4,
+            "level": 20
          }
       ]
    },
-   "basculinwhitestriped":{
-      "learnset":{
-         "agility":[
+   "basculinwhitestriped": {
+      "learnset": {
+         "agility": [
             "9M"
          ],
-         "aquajet":[
+         "aquajet": [
             "9L12"
          ],
-         "bite":[
+         "bite": [
             "9L16"
          ],
-         "blizzard":[
+         "blizzard": [
             "9M"
          ],
-         "chillingwater":[
+         "chillingwater": [
             "9M"
          ],
-         "crunch":[
+         "crunch": [
             "9M",
             "9L32"
          ],
-         "doubleedge":[
+         "doubleedge": [
             "9L52"
          ],
-         "endeavor":[
+         "endeavor": [
             "9E"
          ],
-         "endure":[
+         "endure": [
             "9M"
          ],
-         "facade":[
+         "facade": [
             "9M"
          ],
-         "flail":[
+         "flail": [
             "9L8"
          ],
-         "headbutt":[
+         "headbutt": [
             "9L24"
          ],
-         "headsmash":[
+         "headsmash": [
             "9L56"
          ],
-         "hydropump":[
+         "hydropump": [
             "9M"
          ],
-         "icebeam":[
+         "icebeam": [
             "9M"
          ],
-         "icefang":[
+         "icefang": [
             "9M"
          ],
-         "icywind":[
+         "icywind": [
             "9M"
          ],
-         "lastrespects":[
+         "lastrespects": [
             "9E"
          ],
-         "liquidation":[
+         "liquidation": [
             "9M"
          ],
-         "mudshot":[
+         "mudshot": [
             "9M"
          ],
-         "protect":[
+         "protect": [
             "9M"
          ],
-         "psychicfangs":[
+         "psychicfangs": [
             "9M"
          ],
-         "raindance":[
+         "raindance": [
             "9M"
          ],
-         "rest":[
+         "rest": [
             "9M"
          ],
-         "scaryface":[
+         "scaryface": [
             "9M",
             "9L20"
          ],
-         "sleeptalk":[
+         "sleeptalk": [
             "9M"
          ],
-         "snowscape":[
+         "snowscape": [
             "9M"
          ],
-         "soak":[
+         "soak": [
             "9L28"
          ],
-         "substitute":[
+         "substitute": [
             "9M"
          ],
-         "surf":[
+         "surf": [
             "9M"
          ],
-         "swift":[
+         "swift": [
             "9M"
          ],
-         "tackle":[
+         "tackle": [
             "9L4"
          ],
-         "tailwhip":[
+         "tailwhip": [
             "9L1"
          ],
-         "takedown":[
+         "takedown": [
             "9M",
             "9L36"
          ],
-         "terablast":[
+         "terablast": [
             "9M"
          ],
-         "thrash":[
+         "thrash": [
             "9L48"
          ],
-         "uproar":[
+         "uproar": [
             "9L40"
          ],
-         "waterfall":[
+         "waterfall": [
             "9M"
          ],
-         "watergun":[
+         "watergun": [
             "9L1"
          ],
-         "waterpulse":[
+         "waterpulse": [
             "9M"
          ],
-         "wavecrash":[
+         "wavecrash": [
             "9L44"
          ],
-         "zenheadbutt":[
+         "zenheadbutt": [
             "9M"
          ]
       }
    },
-   "lycanrocmidnight":{
-      "learnset":{
-         "attract":[
+   "lycanrocmidnight": {
+      "learnset": {
+         "attract": [
             "8M",
             "7M"
          ],
-         "bite":[
+         "bite": [
             "9L20",
             "8L20",
             "7L1"
          ],
-         "bodyslam":[
+         "bodyslam": [
             "9M"
          ],
-         "brickbreak":[
+         "brickbreak": [
             "9M",
             "8M",
             "7M"
          ],
-         "bulkup":[
+         "bulkup": [
             "9M",
             "8M",
             "7M"
          ],
-         "bulldoze":[
+         "bulldoze": [
             "9M"
          ],
-         "charm":[
+         "charm": [
             "9M"
          ],
-         "closecombat":[
+         "closecombat": [
             "9M",
             "8M"
          ],
-         "confide":[
+         "confide": [
             "7M"
          ],
-         "counter":[
+         "counter": [
             "9L0",
             "8L0",
             "7L1"
          ],
-         "covet":[
+         "covet": [
             "7T"
          ],
-         "crunch":[
+         "crunch": [
             "9M",
             "9L42",
             "8M",
             "8L42",
             "7L40"
          ],
-         "dig":[
+         "dig": [
             "9M"
          ],
-         "doubleteam":[
+         "doubleteam": [
             "9L1",
             "8L1",
             "7M"
          ],
-         "dualchop":[
+         "dualchop": [
             "7T"
          ],
-         "earthpower":[
+         "earthpower": [
             "9M",
             "8M",
             "7T"
          ],
-         "echoedvoice":[
+         "echoedvoice": [
             "7M"
          ],
-         "endeavor":[
+         "endeavor": [
             "7T"
          ],
-         "endure":[
+         "endure": [
             "9M",
             "9L1",
             "8M",
             "8L1"
          ],
-         "facade":[
+         "facade": [
             "9M",
             "8M",
             "7M"
          ],
-         "firefang":[
+         "firefang": [
             "9M",
             "8M",
             "7S0"
          ],
-         "firepunch":[
+         "firepunch": [
             "9M",
             "8M",
             "7T"
          ],
-         "fling":[
+         "fling": [
             "9M"
          ],
-         "focuspunch":[
+         "focuspunch": [
             "9M",
             "7T"
          ],
-         "foulplay":[
+         "foulplay": [
             "9M",
             "8M",
             "7T"
          ],
-         "frustration":[
+         "frustration": [
             "7M"
          ],
-         "gigaimpact":[
+         "gigaimpact": [
             "9M",
             "8M"
          ],
-         "helpinghand":[
+         "helpinghand": [
             "9M"
          ],
-         "hiddenpower":[
+         "hiddenpower": [
             "7M"
          ],
-         "howl":[
+         "howl": [
             "9L16",
             "8L16",
             "7L12"
          ],
-         "hypervoice":[
+         "hypervoice": [
             "9M",
             "8M",
             "7T"
          ],
-         "irondefense":[
+         "irondefense": [
             "9M",
             "8M",
             "7T"
          ],
-         "ironhead":[
+         "ironhead": [
             "9M",
             "8M",
             "7T"
          ],
-         "irontail":[
+         "irontail": [
             "8M",
             "7T"
          ],
-         "knockoff":[
+         "knockoff": [
             "9M"
          ],
-         "laserfocus":[
+         "laserfocus": [
             "7T"
          ],
-         "lashout":[
+         "lashout": [
             "9M",
             "8T"
          ],
-         "lastresort":[
+         "lastresort": [
             "7T"
          ],
-         "leer":[
+         "leer": [
             "9L1",
             "8L1",
             "7L1"
          ],
-         "lowsweep":[
+         "lowsweep": [
             "9M",
             "8M"
          ],
-         "megakick":[
+         "megakick": [
             "8M"
          ],
-         "megapunch":[
+         "megapunch": [
             "8M"
          ],
-         "mudslap":[
+         "mudslap": [
             "9M"
          ],
-         "odorsleuth":[
+         "odorsleuth": [
             "7L18"
          ],
-         "outrage":[
+         "outrage": [
             "9M",
             "8M",
             "7T"
          ],
-         "payback":[
+         "payback": [
             "8M"
          ],
-         "playrough":[
+         "playrough": [
             "9M",
             "8M"
          ],
-         "protect":[
-            "9M",
-            "8M",
-            "7M"
-         ],
-         "psychicfangs":[
-            "9M",
-            "8M"
-         ],
-         "rest":[
+         "protect": [
             "9M",
             "8M",
             "7M"
          ],
-         "return":[
-            "7M"
-         ],
-         "revenge":[
+         "psychicfangs": [
+            "9M",
             "8M"
          ],
-         "reversal":[
+         "rest": [
+            "9M",
+            "8M",
+            "7M"
+         ],
+         "return": [
+            "7M"
+         ],
+         "revenge": [
+            "8M"
+         ],
+         "reversal": [
             "9M",
             "9L1",
             "8M",
             "8L1",
             "7L1"
          ],
-         "roar":[
+         "roar": [
             "9M",
             "9L30",
             "8L30",
             "7M",
             "7L26"
          ],
-         "rockblast":[
+         "rockblast": [
             "9M",
             "8M"
          ],
-         "rockclimb":[
+         "rockclimb": [
             "7L45"
          ],
-         "rockpolish":[
+         "rockpolish": [
             "7M"
          ],
-         "rockslide":[
+         "rockslide": [
             "9M",
             "9L36",
             "8M",
@@ -6160,12 +6173,12 @@
             "7M",
             "7L34"
          ],
-         "rockthrow":[
+         "rockthrow": [
             "9L12",
             "8L12",
             "7L15"
          ],
-         "rocktomb":[
+         "rocktomb": [
             "9M",
             "9L24",
             "8M",
@@ -6173,44 +6186,44 @@
             "7M",
             "7L23"
          ],
-         "round":[
+         "round": [
             "8M",
             "7M"
          ],
-         "sandattack":[
+         "sandattack": [
             "9L1",
             "8L1",
             "7L1"
          ],
-         "sandstorm":[
+         "sandstorm": [
             "9M",
             "8M"
          ],
-         "scaryface":[
+         "scaryface": [
             "9M",
             "9L48",
             "8M",
             "8L48",
             "7L37"
          ],
-         "shadowclaw":[
+         "shadowclaw": [
             "9M"
          ],
-         "sleeptalk":[
+         "sleeptalk": [
             "9M",
             "8M",
             "7M"
          ],
-         "snarl":[
+         "snarl": [
             "9M",
             "8M",
             "7M"
          ],
-         "snore":[
+         "snore": [
             "8M",
             "7T"
          ],
-         "stealthrock":[
+         "stealthrock": [
             "9M",
             "9L54",
             "8M",
@@ -6218,12 +6231,12 @@
             "7T",
             "7L29"
          ],
-         "stompingtantrum":[
+         "stompingtantrum": [
             "9M",
             "8M",
             "7T"
          ],
-         "stoneedge":[
+         "stoneedge": [
             "9M",
             "9L60",
             "8M",
@@ -6232,35 +6245,35 @@
             "7L48",
             "7S0"
          ],
-         "substitute":[
+         "substitute": [
             "9M",
             "8M",
             "7M"
          ],
-         "suckerpunch":[
+         "suckerpunch": [
             "7S0"
          ],
-         "sunnyday":[
+         "sunnyday": [
             "9M"
          ],
-         "swagger":[
+         "swagger": [
             "7M"
          ],
-         "swordsdance":[
+         "swordsdance": [
             "9M",
             "8M",
             "7M",
             "7S0"
          ],
-         "tackle":[
+         "tackle": [
             "9L1",
             "8L1",
             "7L1"
          ],
-         "takedown":[
+         "takedown": [
             "9M"
          ],
-         "taunt":[
+         "taunt": [
             "9M",
             "9L1",
             "8M",
@@ -6268,265 +6281,265 @@
             "7M",
             "7L1"
          ],
-         "terablast":[
+         "terablast": [
             "9M"
          ],
-         "throatchop":[
+         "throatchop": [
             "8M",
             "7T"
          ],
-         "thunderfang":[
+         "thunderfang": [
             "9M",
             "8M"
          ],
-         "thunderpunch":[
+         "thunderpunch": [
             "9M",
             "8M",
             "7T"
          ],
-         "toxic":[
+         "toxic": [
             "7M"
          ],
-         "trailblaze":[
+         "trailblaze": [
             "9M"
          ],
-         "uproar":[
+         "uproar": [
             "8M",
             "7T"
          ],
-         "zenheadbutt":[
+         "zenheadbutt": [
             "9M",
             "8M",
             "7T"
          ]
       },
-      "eventData":[
+      "eventData": [
          {
-            "generation":7,
-            "level":50,
-            "isHidden":true,
-            "moves":[
+            "generation": 7,
+            "level": 50,
+            "isHidden": true,
+            "moves": [
                "stoneedge",
                "firefang",
                "suckerpunch",
                "swordsdance"
             ],
-            "pokeball":"cherishball"
+            "pokeball": "cherishball"
          }
       ]
    },
-   "lycanrocdusk":{
-      "learnset":{
-         "accelerock":[
+   "lycanrocdusk": {
+      "learnset": {
+         "accelerock": [
             "9L1",
             "8L1",
             "7L1"
          ],
-         "attract":[
+         "attract": [
             "8M",
             "7M"
          ],
-         "bite":[
+         "bite": [
             "9L20",
             "8L20",
             "7L1"
          ],
-         "bodyslam":[
+         "bodyslam": [
             "9M"
          ],
-         "brickbreak":[
+         "brickbreak": [
             "9M",
             "8M",
             "7M"
          ],
-         "bulkup":[
+         "bulkup": [
             "9M",
             "8M",
             "7M"
          ],
-         "bulldoze":[
+         "bulldoze": [
             "9M"
          ],
-         "charm":[
+         "charm": [
             "9M"
          ],
-         "closecombat":[
+         "closecombat": [
             "9M",
             "8M"
          ],
-         "confide":[
+         "confide": [
             "7M"
          ],
-         "counter":[
+         "counter": [
             "9L1",
             "8L1",
             "7L1"
          ],
-         "covet":[
+         "covet": [
             "7T"
          ],
-         "crunch":[
+         "crunch": [
             "9M",
             "9L42",
             "8M",
             "8L42",
             "7L40"
          ],
-         "crushclaw":[
+         "crushclaw": [
             "9L0",
             "8L0"
          ],
-         "dig":[
+         "dig": [
             "9M"
          ],
-         "doubleteam":[
+         "doubleteam": [
             "9L1",
             "8L1",
             "7M"
          ],
-         "drillrun":[
+         "drillrun": [
             "9M",
             "8M",
             "7T"
          ],
-         "earthpower":[
+         "earthpower": [
             "9M",
             "8M",
             "7T"
          ],
-         "echoedvoice":[
+         "echoedvoice": [
             "7M"
          ],
-         "endeavor":[
+         "endeavor": [
             "7T"
          ],
-         "endure":[
+         "endure": [
             "9M",
             "9L1",
             "8M",
             "8L1"
          ],
-         "facade":[
+         "facade": [
             "9M",
             "8M",
             "7M"
          ],
-         "firefang":[
+         "firefang": [
             "9M",
             "8M"
          ],
-         "focusenergy":[
+         "focusenergy": [
             "8M"
          ],
-         "frustration":[
+         "frustration": [
             "7M"
          ],
-         "gigaimpact":[
+         "gigaimpact": [
             "9M",
             "8M"
          ],
-         "helpinghand":[
+         "helpinghand": [
             "9M"
          ],
-         "hiddenpower":[
+         "hiddenpower": [
             "7M"
          ],
-         "howl":[
+         "howl": [
             "9L16",
             "8L16",
             "7L12"
          ],
-         "hypervoice":[
+         "hypervoice": [
             "9M",
             "8M",
             "7T"
          ],
-         "irondefense":[
+         "irondefense": [
             "9M",
             "8M",
             "7T"
          ],
-         "ironhead":[
+         "ironhead": [
             "9M",
             "8M",
             "7T"
          ],
-         "irontail":[
+         "irontail": [
             "8M",
             "7T"
          ],
-         "lastresort":[
+         "lastresort": [
             "7T"
          ],
-         "leer":[
+         "leer": [
             "9L1",
             "8L1",
             "7L1"
          ],
-         "mudslap":[
+         "mudslap": [
             "9M"
          ],
-         "odorsleuth":[
+         "odorsleuth": [
             "7L18"
          ],
-         "outrage":[
+         "outrage": [
             "9M",
             "8M",
             "7T"
          ],
-         "playrough":[
+         "playrough": [
             "9M",
             "8M"
          ],
-         "protect":[
+         "protect": [
             "9M",
             "8M",
             "7M"
          ],
-         "psychicfangs":[
+         "psychicfangs": [
             "9M",
             "8M"
          ],
-         "quickattack":[
+         "quickattack": [
             "9L1",
             "8L1"
          ],
-         "quickguard":[
+         "quickguard": [
             "9L1",
             "8L1"
          ],
-         "rest":[
+         "rest": [
             "9M",
             "8M",
             "7M"
          ],
-         "return":[
+         "return": [
             "7M"
          ],
-         "reversal":[
+         "reversal": [
             "9M",
             "9L1",
             "8M",
             "8L1"
          ],
-         "roar":[
+         "roar": [
             "9M",
             "9L30",
             "8L30",
             "7M",
             "7L26"
          ],
-         "rockblast":[
+         "rockblast": [
             "9M",
             "8M"
          ],
-         "rockclimb":[
+         "rockclimb": [
             "7L45"
          ],
-         "rockpolish":[
+         "rockpolish": [
             "7M"
          ],
-         "rockslide":[
+         "rockslide": [
             "9M",
             "9L36",
             "8M",
@@ -6534,12 +6547,12 @@
             "7M",
             "7L34"
          ],
-         "rockthrow":[
+         "rockthrow": [
             "9L12",
             "8L12",
             "7L15"
          ],
-         "rocktomb":[
+         "rocktomb": [
             "9M",
             "9L24",
             "8M",
@@ -6547,41 +6560,41 @@
             "7M",
             "7L23"
          ],
-         "round":[
+         "round": [
             "8M",
             "7M"
          ],
-         "sandattack":[
+         "sandattack": [
             "9L1",
             "8L1",
             "7L1"
          ],
-         "sandstorm":[
+         "sandstorm": [
             "9M",
             "8M"
          ],
-         "scaryface":[
+         "scaryface": [
             "9M",
             "9L48",
             "8M",
             "8L48",
             "7L37"
          ],
-         "sleeptalk":[
+         "sleeptalk": [
             "9M",
             "8M",
             "7M"
          ],
-         "snarl":[
+         "snarl": [
             "9M",
             "8M",
             "7M"
          ],
-         "snore":[
+         "snore": [
             "8M",
             "7T"
          ],
-         "stealthrock":[
+         "stealthrock": [
             "9M",
             "9L54",
             "8M",
@@ -6589,12 +6602,12 @@
             "7T",
             "7L29"
          ],
-         "stompingtantrum":[
+         "stompingtantrum": [
             "9M",
             "8M",
             "7T"
          ],
-         "stoneedge":[
+         "stoneedge": [
             "9M",
             "9L60",
             "8M",
@@ -6602,382 +6615,393 @@
             "7M",
             "7L48"
          ],
-         "substitute":[
+         "substitute": [
             "9M",
             "8M",
             "7M"
          ],
-         "suckerpunch":[
+         "suckerpunch": [
             "9L1",
             "8L1"
          ],
-         "swagger":[
+         "swagger": [
             "7M"
          ],
-         "swordsdance":[
+         "swordsdance": [
             "9M",
             "8M",
             "7M"
          ],
-         "tackle":[
+         "tackle": [
             "9L1",
             "8L1",
             "7L1"
          ],
-         "tailslap":[
+         "tailslap": [
             "8M"
          ],
-         "takedown":[
+         "takedown": [
             "9M"
          ],
-         "taunt":[
+         "taunt": [
             "9M",
             "9L1",
             "8M",
             "8L1",
             "7M"
          ],
-         "terablast":[
+         "terablast": [
             "9M"
          ],
-         "thrash":[
+         "thrash": [
             "7L1"
          ],
-         "thunderfang":[
+         "thunderfang": [
             "9M",
             "8M"
          ],
-         "toxic":[
+         "toxic": [
             "7M"
          ],
-         "trailblaze":[
+         "trailblaze": [
             "9M"
          ],
-         "workup":[
+         "workup": [
             "8M"
          ],
-         "zenheadbutt":[
+         "zenheadbutt": [
             "9M",
             "8M",
             "7T"
          ]
       }
    },
-   "basculegionf":{
-      "learnset":{
-         "agility":[
+   "basculegionf": {
+      "learnset": {
+         "agility": [
             "9M"
          ],
-         "aquajet":[
+         "aquajet": [
             "9L12"
          ],
-         "bite":[
+         "bite": [
             "9L16"
          ],
-         "blizzard":[
+         "blizzard": [
             "9M"
          ],
-         "chillingwater":[
+         "chillingwater": [
             "9M"
          ],
-         "confuseray":[
+         "confuseray": [
             "9M"
          ],
-         "crunch":[
+         "crunch": [
             "9M",
             "9L32"
          ],
-         "doubleedge":[
+         "doubleedge": [
+            "9M",
             "9L52"
          ],
-         "endeavor":[
+         "endeavor": [
+            "9M",
             "9E"
          ],
-         "endure":[
+         "endure": [
             "9M"
          ],
-         "facade":[
+         "facade": [
             "9M"
          ],
-         "flail":[
+         "flail": [
             "9L8"
          ],
-         "flipturn":[
+         "flipturn": [
             "9M"
          ],
-         "gigaimpact":[
+         "gigaimpact": [
             "9M"
          ],
-         "headbutt":[
+         "headbutt": [
             "9L24"
          ],
-         "headsmash":[
+         "headsmash": [
             "9L56"
          ],
-         "hex":[
+         "hex": [
             "9M"
          ],
-         "hydropump":[
+         "hydropump": [
             "9M"
          ],
-         "hyperbeam":[
+         "hyperbeam": [
             "9M"
          ],
-         "icebeam":[
+         "icebeam": [
             "9M"
          ],
-         "icefang":[
+         "icefang": [
             "9M"
          ],
-         "icywind":[
+         "icywind": [
             "9M"
          ],
-         "lastrespects":[
+         "lastrespects": [
             "9E"
          ],
-         "liquidation":[
+         "liquidation": [
             "9M"
          ],
-         "mudshot":[
+         "muddywater": [
             "9M"
          ],
-         "nightshade":[
+         "mudshot": [
             "9M"
          ],
-         "outrage":[
+         "nightshade": [
             "9M"
          ],
-         "phantomforce":[
+         "outrage": [
+            "9M"
+         ],
+         "painsplit": [
+            "9M"
+         ],
+         "phantomforce": [
             "9M",
             "9L1"
          ],
-         "protect":[
+         "protect": [
             "9M"
          ],
-         "psychicfangs":[
+         "psychicfangs": [
             "9M"
          ],
-         "raindance":[
+         "raindance": [
             "9M"
          ],
-         "rest":[
+         "rest": [
             "9M"
          ],
-         "scaleshot":[
+         "scaleshot": [
             "9M"
          ],
-         "scaryface":[
+         "scaryface": [
             "9M",
             "9L20"
          ],
-         "shadowball":[
+         "shadowball": [
             "9M",
             "9L1"
          ],
-         "sleeptalk":[
+         "sleeptalk": [
             "9M"
          ],
-         "snowscape":[
+         "snowscape": [
             "9M"
          ],
-         "soak":[
+         "soak": [
             "9L28"
          ],
-         "spite":[
+         "spite": [
             "9M"
          ],
-         "substitute":[
+         "substitute": [
             "9M"
          ],
-         "surf":[
+         "surf": [
             "9M"
          ],
-         "swift":[
+         "swift": [
             "9M"
          ],
-         "tackle":[
+         "tackle": [
             "9L4"
          ],
-         "tailwhip":[
+         "tailwhip": [
             "9L1"
          ],
-         "takedown":[
+         "takedown": [
             "9M",
             "9L36"
          ],
-         "terablast":[
+         "terablast": [
             "9M"
          ],
-         "thrash":[
+         "thrash": [
             "9L48"
          ],
-         "uproar":[
+         "uproar": [
             "9M",
             "9L40"
          ],
-         "waterfall":[
+         "waterfall": [
             "9M"
          ],
-         "watergun":[
+         "watergun": [
             "9L1"
          ],
-         "waterpulse":[
+         "waterpulse": [
             "9M"
          ],
-         "wavecrash":[
+         "wavecrash": [
             "9L44"
          ],
-         "zenheadbutt":[
+         "whirlpool": [
+            "9M"
+         ],
+         "zenheadbutt": [
             "9M"
          ]
       }
    },
-   "meowsticf":{
-      "learnset":{
-         "allyswitch":[
+   "meowsticf": {
+      "learnset": {
+         "allyswitch": [
             "8M",
             "7T"
          ],
-         "attract":[
+         "attract": [
             "8M",
             "7M",
             "6M"
          ],
-         "calmmind":[
+         "calmmind": [
             "8M",
             "7M",
             "6M"
          ],
-         "chargebeam":[
+         "chargebeam": [
             "8L15",
             "7M",
             "7L28",
             "6M",
             "6L28"
          ],
-         "charm":[
+         "charm": [
             "8M"
          ],
-         "confide":[
+         "confide": [
             "7M",
             "6M"
          ],
-         "confusion":[
+         "confusion": [
             "8L9",
             "7L1",
             "6L9"
          ],
-         "covet":[
+         "covet": [
             "8L18",
             "7T",
             "7L1",
             "6L5"
          ],
-         "cut":[
+         "cut": [
             "6M"
          ],
-         "darkpulse":[
+         "darkpulse": [
             "8M",
             "7M",
             "6M"
          ],
-         "dig":[
+         "dig": [
             "8M",
             "6M"
          ],
-         "disarmingvoice":[
+         "disarmingvoice": [
             "8L1",
             "7L22",
             "6L22"
          ],
-         "doubleteam":[
+         "doubleteam": [
             "7M",
             "6M"
          ],
-         "dreameater":[
+         "dreameater": [
             "7M",
             "6M"
          ],
-         "echoedvoice":[
+         "echoedvoice": [
             "7M",
             "6M"
          ],
-         "endure":[
+         "endure": [
             "8M"
          ],
-         "energyball":[
+         "energyball": [
             "8M",
             "7M",
             "6M"
          ],
-         "expandingforce":[
+         "expandingforce": [
             "8T"
          ],
-         "extrasensory":[
+         "extrasensory": [
             "8L44",
             "7L35",
             "6L35"
          ],
-         "facade":[
+         "facade": [
             "8M",
             "7M",
             "6M"
          ],
-         "fakeout":[
+         "fakeout": [
             "8L1",
             "7L19",
             "6L19"
          ],
-         "faketears":[
+         "faketears": [
             "8M"
          ],
-         "flash":[
+         "flash": [
             "6M"
          ],
-         "frustration":[
+         "frustration": [
             "7M",
             "6M"
          ],
-         "futuresight":[
+         "futuresight": [
             "8M",
             "8L59",
             "7L50",
             "6L50"
          ],
-         "gigaimpact":[
+         "gigaimpact": [
             "8M",
             "7M",
             "6M"
          ],
-         "gravity":[
+         "gravity": [
             "7T"
          ],
-         "healbell":[
+         "healbell": [
             "7T"
          ],
-         "helpinghand":[
+         "helpinghand": [
             "8M",
             "7T"
          ],
-         "hiddenpower":[
+         "hiddenpower": [
             "7M",
             "6M"
          ],
-         "hyperbeam":[
+         "hyperbeam": [
             "8M",
             "7M",
             "6M"
          ],
-         "irontail":[
+         "irontail": [
             "8M",
             "7T"
          ],
-         "leer":[
+         "leer": [
             "8L1",
             "7L1",
             "6L1"
          ],
-         "lightscreen":[
+         "lightscreen": [
             "8M",
             "8L34",
             "7M",
@@ -6985,51 +7009,51 @@
             "6M",
             "6L13"
          ],
-         "magicalleaf":[
+         "magicalleaf": [
             "8M",
             "8L1",
             "7L1",
             "6L1"
          ],
-         "magiccoat":[
+         "magiccoat": [
             "7T"
          ],
-         "magicroom":[
+         "magicroom": [
             "8M",
             "7T"
          ],
-         "mefirst":[
+         "mefirst": [
             "7L1",
             "6L1"
          ],
-         "nastyplot":[
+         "nastyplot": [
             "8M"
          ],
-         "payback":[
+         "payback": [
             "8M",
             "7M",
             "6M"
          ],
-         "payday":[
+         "payday": [
             "8M"
          ],
-         "playrough":[
+         "playrough": [
             "8M"
          ],
-         "poweruppunch":[
+         "poweruppunch": [
             "6M"
          ],
-         "protect":[
+         "protect": [
             "8M",
             "7M",
             "6M"
          ],
-         "psybeam":[
+         "psybeam": [
             "8L21",
             "7L17",
             "6L17"
          ],
-         "psychic":[
+         "psychic": [
             "8M",
             "8L54",
             "7M",
@@ -7037,14 +7061,14 @@
             "6M",
             "6L40"
          ],
-         "psychicterrain":[
+         "psychicterrain": [
             "8M"
          ],
-         "psychup":[
+         "psychup": [
             "7M",
             "6M"
          ],
-         "psyshock":[
+         "psyshock": [
             "8M",
             "8L39",
             "7M",
@@ -7052,54 +7076,54 @@
             "6M",
             "6L25"
          ],
-         "raindance":[
+         "raindance": [
             "8M",
             "7M",
             "6M"
          ],
-         "recycle":[
+         "recycle": [
             "7T"
          ],
-         "reflect":[
+         "reflect": [
             "8M",
             "8L34",
             "7M",
             "6M"
          ],
-         "rest":[
+         "rest": [
             "8M",
             "7M",
             "6M"
          ],
-         "return":[
+         "return": [
             "7M",
             "6M"
          ],
-         "roleplay":[
+         "roleplay": [
             "8L29",
             "7T",
             "7L43",
             "6L43"
          ],
-         "round":[
+         "round": [
             "8M",
             "7M",
             "6M"
          ],
-         "safeguard":[
+         "safeguard": [
             "8M",
             "7M",
             "6M"
          ],
-         "scratch":[
+         "scratch": [
             "8L1",
             "7L1",
             "6L1"
          ],
-         "secretpower":[
+         "secretpower": [
             "6M"
          ],
-         "shadowball":[
+         "shadowball": [
             "8M",
             "8L49",
             "7M",
@@ -7107,323 +7131,359 @@
             "6M",
             "6L31"
          ],
-         "shockwave":[
+         "shockwave": [
             "7T"
          ],
-         "signalbeam":[
+         "signalbeam": [
             "7T",
             "7L45",
             "6L45"
          ],
-         "skillswap":[
+         "skillswap": [
             "8M",
             "7T"
          ],
-         "sleeptalk":[
+         "sleeptalk": [
             "8M",
             "7M",
             "6M"
          ],
-         "snatch":[
+         "snatch": [
             "7T"
          ],
-         "snore":[
+         "snore": [
             "8M",
             "7T"
          ],
-         "storedpower":[
+         "storedpower": [
             "8M",
             "8L12",
             "7L1",
             "6L1"
          ],
-         "substitute":[
+         "substitute": [
             "8M",
             "7M",
             "6M"
          ],
-         "suckerpunch":[
+         "suckerpunch": [
             "8L24",
             "7L48",
             "6L48"
          ],
-         "sunnyday":[
+         "sunnyday": [
             "8M",
             "7M",
             "6M"
          ],
-         "swagger":[
+         "swagger": [
             "7M",
             "6M"
          ],
-         "swift":[
+         "swift": [
             "8M"
          ],
-         "tailslap":[
+         "tailslap": [
             "8M"
          ],
-         "telekinesis":[
+         "telekinesis": [
             "7T"
          ],
-         "thunderbolt":[
+         "thunderbolt": [
             "8M",
             "7M",
             "6M"
          ],
-         "thunderwave":[
+         "thunderwave": [
             "8M",
             "7M",
             "6M"
          ],
-         "torment":[
+         "torment": [
             "7M",
             "6M"
          ],
-         "toxic":[
+         "toxic": [
             "7M",
             "6M"
          ],
-         "trick":[
-            "8M",
-            "7T"
-         ],
-         "trickroom":[
-            "8M",
-            "7M",
-            "6M"
-         ],
-         "wonderroom":[
+         "trick": [
             "8M",
             "7T"
          ],
-         "workup":[
+         "trickroom": [
+            "8M",
+            "7M",
+            "6M"
+         ],
+         "wonderroom": [
+            "8M",
+            "7T"
+         ],
+         "workup": [
             "8M",
             "7M"
          ],
-         "zenheadbutt":[
+         "zenheadbutt": [
             "8M",
             "7T"
          ]
       }
    },
-   "ursalunabloodmoon":{
-      "learnset":{
-         "avalanche":[
+   "ursalunabloodmoon": {
+      "learnset": {
+         "avalanche": [
             "9M"
          ],
-         "bloodmoon":[
+         "bellydrum": [
+            "9E"
+         ],
+         "bloodmoon": [
             "9L70",
             "9S0"
          ],
-         "bodypress":[
+         "bodypress": [
             "9M"
          ],
-         "bodyslam":[
+         "bodyslam": [
             "9M"
          ],
-         "brickbreak":[
+         "brickbreak": [
             "9M"
          ],
-         "bulldoze":[
+         "bulldoze": [
             "9M"
          ],
-         "calmmind":[
+         "calmmind": [
             "9M",
             "9S0"
          ],
-         "crunch":[
+         "closecombat": [
+            "9E"
+         ],
+         "counter": [
+            "9E"
+         ],
+         "crosschop": [
+            "9E"
+         ],
+         "crunch": [
+            "9M",
+            "9E"
+         ],
+         "dig": [
             "9M"
          ],
-         "dig":[
-            "9M"
+         "doubleedge": [
+            "9M",
+            "9E"
          ],
-         "earthpower":[
+         "earthpower": [
             "9M",
             "9L48",
             "9S0"
          ],
-         "earthquake":[
+         "earthquake": [
             "9M"
          ],
-         "endure":[
+         "endure": [
             "9M"
          ],
-         "facade":[
+         "facade": [
             "9M"
          ],
-         "firepunch":[
+         "faketears": [
+            "9E"
+         ],
+         "firepunch": [
             "9M"
          ],
-         "fling":[
+         "fling": [
             "9M"
          ],
-         "focusblast":[
+         "focusblast": [
             "9M"
          ],
-         "focuspunch":[
+         "focuspunch": [
             "9M"
          ],
-         "furyswipes":[
+         "furycutter": [
+            "9E"
+         ],
+         "furyswipes": [
             "9L8"
          ],
-         "gigaimpact":[
+         "gigaimpact": [
             "9M"
          ],
-         "gunkshot":[
+         "gunkshot": [
             "9M"
          ],
-         "hammerarm":[
+         "hammerarm": [
             "9L64"
          ],
-         "harden":[
+         "harden": [
             "9L17"
          ],
-         "headlongrush":[
+         "hardpress": [
+            "9M"
+         ],
+         "headlongrush": [
             "9L1"
          ],
-         "heavyslam":[
+         "heavyslam": [
             "9M"
          ],
-         "helpinghand":[
+         "helpinghand": [
             "9M"
          ],
-         "highhorsepower":[
+         "highhorsepower": [
             "9M"
          ],
-         "hyperbeam":[
+         "hyperbeam": [
             "9M"
          ],
-         "hypervoice":[
+         "hypervoice": [
             "9M"
          ],
-         "icepunch":[
+         "icepunch": [
             "9M"
          ],
-         "leer":[
+         "leer": [
             "9L1"
          ],
-         "lick":[
+         "lick": [
             "9L1"
          ],
-         "lowkick":[
+         "lowkick": [
             "9M"
          ],
-         "metalclaw":[
-            "9M"
+         "metalclaw": [
+            "9M",
+            "9E"
          ],
-         "moonblast":[
+         "moonblast": [
             "9L56"
          ],
-         "moonlight":[
+         "moonlight": [
             "9L1"
          ],
-         "mudshot":[
+         "mudshot": [
             "9M"
          ],
-         "payback":[
+         "nightslash": [
+            "9E"
+         ],
+         "payback": [
             "9L13"
          ],
-         "playnice":[
+         "playnice": [
             "9L25"
          ],
-         "protect":[
+         "protect": [
             "9M"
          ],
-         "raindance":[
+         "raindance": [
             "9M"
          ],
-         "rest":[
+         "rest": [
             "9M",
             "9L41"
          ],
-         "roar":[
+         "roar": [
             "9M"
          ],
-         "rockslide":[
+         "rockslide": [
             "9M"
          ],
-         "rocktomb":[
+         "rocktomb": [
             "9M"
          ],
-         "scaryface":[
+         "scaryface": [
             "9M",
             "9L35"
          ],
-         "scratch":[
+         "scratch": [
             "9L1"
          ],
-         "seedbomb":[
+         "seedbomb": [
             "9M"
          ],
-         "shadowclaw":[
+         "seismictoss": [
+            "9E"
+         ],
+         "shadowclaw": [
             "9M"
          ],
-         "slash":[
+         "slash": [
             "9L22",
             "9S0"
          ],
-         "sleeptalk":[
+         "sleeptalk": [
             "9M"
          ],
-         "smackdown":[
+         "smackdown": [
             "9M"
          ],
-         "snarl":[
+         "snarl": [
             "9M"
          ],
-         "snore":[
+         "snore": [
             "9L41"
          ],
-         "stompingtantrum":[
+         "stompingtantrum": [
             "9M"
          ],
-         "stoneedge":[
+         "stoneedge": [
             "9M"
          ],
-         "substitute":[
+         "substitute": [
             "9M"
          ],
-         "sunnyday":[
+         "sunnyday": [
             "9M"
          ],
-         "swift":[
+         "swift": [
             "9M"
          ],
-         "swordsdance":[
+         "swordsdance": [
             "9M"
          ],
-         "takedown":[
+         "takedown": [
             "9M"
          ],
-         "taunt":[
+         "taunt": [
             "9M"
          ],
-         "terablast":[
+         "terablast": [
             "9M"
          ],
-         "thief":[
+         "thief": [
             "9M"
          ],
-         "thunderpunch":[
+         "thunderpunch": [
             "9M"
          ],
-         "trailblaze":[
+         "trailblaze": [
             "9M"
          ],
-         "uproar":[
+         "uproar": [
             "9M"
          ],
-         "vacuumwave":[
+         "vacuumwave": [
             "9M"
+         ],
+         "yawn": [
+            "9E"
          ]
       },
-      "eventData":[
+      "eventData": [
          {
-            "generation":9,
-            "level":70,
-            "nature":"Hardy",
-            "perfectIVs":3,
-            "moves":[
+            "generation": 9,
+            "level": 70,
+            "nature": "Hardy",
+            "perfectIVs": 3,
+            "moves": [
                "bloodmoon",
                "earthpower",
                "slash",
@@ -7431,233 +7491,251 @@
             ]
          }
       ],
-      "eventOnly":true
+      "eventOnly": true
    },
-   "ursalunabloodmoon":{
-      "learnset":{
-         "avalanche":[
+   "poltchageistartisan": {
+      "learnset": {
+         "absorb": [
+            "9L6"
+         ],
+         "astonish": [
+            "9L1"
+         ],
+         "calmmind": [
             "9M"
          ],
-         "bloodmoon":[
-            "9L70",
-            "9S0"
-         ],
-         "bodypress":[
+         "endure": [
             "9M"
          ],
-         "bodyslam":[
+         "energyball": [
             "9M"
          ],
-         "brickbreak":[
-            "9M"
-         ],
-         "bulldoze":[
-            "9M"
-         ],
-         "calmmind":[
+         "foulplay": [
             "9M",
-            "9S0"
+            "9L18"
          ],
-         "crunch":[
-            "9M"
-         ],
-         "dig":[
-            "9M"
-         ],
-         "earthpower":[
+         "gigadrain": [
             "9M",
-            "9L48",
-            "9S0"
+            "9L42"
          ],
-         "earthquake":[
+         "grassyterrain": [
             "9M"
          ],
-         "endure":[
-            "9M"
-         ],
-         "facade":[
-            "9M"
-         ],
-         "firepunch":[
-            "9M"
-         ],
-         "fling":[
-            "9M"
-         ],
-         "focusblast":[
-            "9M"
-         ],
-         "focuspunch":[
-            "9M"
-         ],
-         "furyswipes":[
-            "9L8"
-         ],
-         "gigaimpact":[
-            "9M"
-         ],
-         "gunkshot":[
-            "9M"
-         ],
-         "hammerarm":[
-            "9L64"
-         ],
-         "harden":[
-            "9L17"
-         ],
-         "headlongrush":[
-            "9L1"
-         ],
-         "heavyslam":[
-            "9M"
-         ],
-         "helpinghand":[
-            "9M"
-         ],
-         "highhorsepower":[
-            "9M"
-         ],
-         "hyperbeam":[
-            "9M"
-         ],
-         "hypervoice":[
-            "9M"
-         ],
-         "icepunch":[
-            "9M"
-         ],
-         "leer":[
-            "9L1"
-         ],
-         "lick":[
-            "9L1"
-         ],
-         "lowkick":[
-            "9M"
-         ],
-         "metalclaw":[
-            "9M"
-         ],
-         "moonblast":[
-            "9L56"
-         ],
-         "moonlight":[
-            "9L1"
-         ],
-         "mudshot":[
-            "9M"
-         ],
-         "payback":[
-            "9L13"
-         ],
-         "playnice":[
-            "9L25"
-         ],
-         "protect":[
-            "9M"
-         ],
-         "raindance":[
-            "9M"
-         ],
-         "rest":[
+         "hex": [
             "9M",
-            "9L41"
+            "9L30"
          ],
-         "roar":[
+         "imprison": [
             "9M"
          ],
-         "rockslide":[
+         "irondefense": [
             "9M"
          ],
-         "rocktomb":[
-            "9M"
-         ],
-         "scaryface":[
+         "leafstorm": [
             "9M",
-            "9L35"
+            "9L60"
          ],
-         "scratch":[
+         "lifedew": [
+            "9L12"
+         ],
+         "magicalleaf": [
+            "9M"
+         ],
+         "megadrain": [
+            "9L24"
+         ],
+         "memento": [
+            "9L54"
+         ],
+         "nastyplot": [
+            "9M"
+         ],
+         "nightshade": [
+            "9M"
+         ],
+         "phantomforce": [
+            "9M"
+         ],
+         "poltergeist": [
+            "9M"
+         ],
+         "protect": [
+            "9M"
+         ],
+         "ragepowder": [
+            "9L36"
+         ],
+         "reflect": [
+            "9M"
+         ],
+         "rest": [
+            "9M"
+         ],
+         "scald": [
+            "9M"
+         ],
+         "shadowball": [
+            "9M",
+            "9L48"
+         ],
+         "sleeptalk": [
+            "9M"
+         ],
+         "solarbeam": [
+            "9M"
+         ],
+         "spite": [
+            "9M"
+         ],
+         "stunspore": [
             "9L1"
          ],
-         "seedbomb":[
+         "substitute": [
             "9M"
          ],
-         "shadowclaw":[
+         "terablast": [
             "9M"
          ],
-         "slash":[
-            "9L22",
-            "9S0"
-         ],
-         "sleeptalk":[
+         "trickroom": [
             "9M"
          ],
-         "smackdown":[
+         "uproar": [
             "9M"
          ],
-         "snarl":[
-            "9M"
-         ],
-         "snore":[
-            "9L41"
-         ],
-         "stompingtantrum":[
-            "9M"
-         ],
-         "stoneedge":[
-            "9M"
-         ],
-         "substitute":[
-            "9M"
-         ],
-         "sunnyday":[
-            "9M"
-         ],
-         "swift":[
-            "9M"
-         ],
-         "swordsdance":[
-            "9M"
-         ],
-         "takedown":[
-            "9M"
-         ],
-         "taunt":[
-            "9M"
-         ],
-         "terablast":[
-            "9M"
-         ],
-         "thief":[
-            "9M"
-         ],
-         "thunderpunch":[
-            "9M"
-         ],
-         "trailblaze":[
-            "9M"
-         ],
-         "uproar":[
-            "9M"
-         ],
-         "vacuumwave":[
-            "9M"
+         "withdraw": [
+            "9L1"
          ]
-      },
-      "eventData":[
-         {
-            "generation":9,
-            "level":70,
-            "nature":"Hardy",
-            "perfectIVs":3,
-            "moves":[
-               "bloodmoon",
-               "earthpower",
-               "slash",
-               "calmmind"
-            ]
-         }
-      ],
-      "eventOnly":true
+      }
+   },
+   "sinistchamasterpiece": {
+      "learnset": {
+         "absorb": [
+            "9L6"
+         ],
+         "astonish": [
+            "9L1"
+         ],
+         "calmmind": [
+            "9M"
+         ],
+         "curse": [
+            "9M"
+         ],
+         "endure": [
+            "9M"
+         ],
+         "energyball": [
+            "9M"
+         ],
+         "foulplay": [
+            "9M",
+            "9L18"
+         ],
+         "gigadrain": [
+            "9M"
+         ],
+         "grassyterrain": [
+            "9M"
+         ],
+         "hex": [
+            "9M",
+            "9L30"
+         ],
+         "hyperbeam": [
+            "9M"
+         ],
+         "imprison": [
+            "9M"
+         ],
+         "irondefense": [
+            "9M"
+         ],
+         "leafstorm": [
+            "9M",
+            "9L60"
+         ],
+         "lifedew": [
+            "9L12"
+         ],
+         "magicalleaf": [
+            "9M"
+         ],
+         "matchagotcha": [
+            "9L0"
+         ],
+         "megadrain": [
+            "9L24"
+         ],
+         "memento": [
+            "9L54"
+         ],
+         "nastyplot": [
+            "9M"
+         ],
+         "nightshade": [
+            "9M"
+         ],
+         "painsplit": [
+            "9M"
+         ],
+         "phantomforce": [
+            "9M"
+         ],
+         "poltergeist": [
+            "9M"
+         ],
+         "protect": [
+            "9M"
+         ],
+         "psychup": [
+            "9M"
+         ],
+         "ragepowder": [
+            "9L36"
+         ],
+         "reflect": [
+            "9M"
+         ],
+         "rest": [
+            "9M"
+         ],
+         "scald": [
+            "9M"
+         ],
+         "shadowball": [
+            "9M",
+            "9L48"
+         ],
+         "sleeptalk": [
+            "9M"
+         ],
+         "solarbeam": [
+            "9M"
+         ],
+         "spite": [
+            "9M"
+         ],
+         "strengthsap": [
+            "9L42"
+         ],
+         "stunspore": [
+            "9L1"
+         ],
+         "substitute": [
+            "9M"
+         ],
+         "terablast": [
+            "9M"
+         ],
+         "trickroom": [
+            "9M"
+         ],
+         "uproar": [
+            "9M"
+         ],
+         "withdraw": [
+            "9L1"
+         ]
+      }
    }
 }
